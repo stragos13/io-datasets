@@ -1,0 +1,1601 @@
+index,edad,genero,region,zona,cambio_climatico,pensiones,deportes_tipicos,voto
+0,21,Masculino,Los rios,Urbana,Alta,Estatal,Eliminarse,1
+1,61,Masculino,Maule,Urbana,Media,Estatal,Eliminarse,1
+2,22,No Binario,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse,1
+3,21,Masculino,Aysen,Urbana,Muy Alta,Estatal,Eliminarse,1
+4,43,Masculino,OHiggins,Urbana,Ninguna,Mixto,Mantenerse,2
+5,24,Masculino,Ñuble,Urbana,Alta,Mixto,Modificarse,1
+6,27,Masculino,Metropolitana,Urbana,Muy Alta,Mixto,Modificarse,2
+7,25,Masculino,Atacama,Urbana,Alta,AFP,Mantenerse,2
+8,31,Masculino,Aysen,Urbana,Alta,Estatal,Modificarse,1
+9,20,Femenino,Valparaiso,Urbana,Media,Mixto,Modificarse,2
+10,42,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Mantenerse,1
+11,52,Femenino,Coquimbo,Urbana,Media,Mixto,Modificarse,1
+12,23,Masculino,Metropolitana,Urbana,Alta,Estatal,Modificarse,1
+13,25,Masculino,Antofagasta,Urbana,Muy Alta,Estatal,Eliminarse,1
+14,46,Femenino,Coquimbo,Urbana,Muy Alta,Estatal,Modificarse,1
+15,43,Femenino,Coquimbo,Urbana,Muy Alta,Estatal,Modificarse,1
+16,46,Masculino,Aysen,Urbana,Media,AFP,Mantenerse,2
+17,18,Femenino,Los rios,Rural,Muy Alta,AFP,Modificarse,2
+18,22,Femenino,Metropolitana,Urbana,Alta,Estatal,Eliminarse,1
+19,25,Femenino,Aysen,Urbana,Muy Alta,Mixto,Mantenerse,2
+20,58,Masculino,Valparaiso,Urbana,Media,AFP,Mantenerse,2
+21,27,Femenino,Araucania,Urbana,Muy Alta,Mixto,Eliminarse,1
+22,21,No Binario,Magallanes,Urbana,Muy Alta,Mixto,Eliminarse,1
+23,46,Masculino,Metropolitana,Urbana,Alta,Mixto,Mantenerse,1
+24,19,No Binario,Arica,Urbana,Muy Alta,Estatal,Modificarse,1
+25,39,Femenino,Metropolitana,Urbana,Alta,Estatal,Modificarse,1
+26,27,Femenino,Antofagasta,Urbana,Alta,Mixto,Eliminarse,1
+27,56,Femenino,Arica,Urbana,Baja,Mixto,Mantenerse,2
+28,21,No Binario,Araucania,Urbana,Media,Estatal,Eliminarse,1
+29,27,Masculino,Arica,Urbana,Media,Mixto,Eliminarse,1
+30,40,Femenino,Maule,Urbana,Muy Alta,Estatal,Mantenerse,1
+31,56,Masculino,Araucania,Rural,Baja,Estatal,Eliminarse,1
+32,19,Masculino,Bío Bio,Urbana,Media,Mixto,Mantenerse,2
+33,36,Femenino,Antofagasta,Urbana,Alta,Mixto,Modificarse,2
+34,48,Femenino,Valparaiso,Urbana,Muy Alta,Mixto,Modificarse,1
+35,20,Masculino,Coquimbo,Urbana,Muy Alta,Mixto,Eliminarse,1
+36,61,Masculino,Ñuble,Urbana,Baja,AFP,Mantenerse,2
+37,24,Masculino,Valparaiso,Urbana,Muy Alta,Estatal,Eliminarse,1
+38,48,Masculino,Antofagasta,Urbana,Ninguna,AFP,Mantenerse,2
+39,24,Masculino,Araucania,Rural,Muy Alta,Estatal,Modificarse,1
+40,44,Masculino,Valparaiso,Urbana,Media,AFP,Mantenerse,2
+41,76,Masculino,Metropolitana,Urbana,Baja,Estatal,Mantenerse,1
+42,19,Femenino,Arica,Urbana,Muy Alta,Mixto,Eliminarse,1
+43,19,Femenino,Antofagasta,Urbana,Muy Alta,Mixto,Modificarse,2
+44,49,Masculino,Atacama,Urbana,Media,Mixto,Modificarse,2
+45,35,Masculino,Valparaiso,Urbana,Alta,Mixto,Modificarse,2
+46,32,Femenino,Magallanes,Urbana,Muy Alta,Estatal,Eliminarse,1
+47,25,Femenino,Valparaiso,Urbana,Baja,Estatal,Eliminarse,1
+48,25,Femenino,Araucania,Rural,Muy Alta,Estatal,Modificarse,1
+49,44,Masculino,Tarapaca,Urbana,Media,AFP,Modificarse,2
+50,65,Masculino,Antofagasta,Urbana,Ninguna,Mixto,Mantenerse,2
+51,40,Masculino,Magallanes,Urbana,Alta,Estatal,Modificarse,1
+52,56,Masculino,Valparaiso,Urbana,Media,Estatal,Modificarse,1
+53,68,Masculino,Maule,Urbana,Media,Mixto,Mantenerse,2
+54,38,Femenino,Araucania,Urbana,Media,Estatal,Modificarse,2
+55,49,Masculino,Coquimbo,Urbana,Alta,AFP,Modificarse,2
+56,26,Masculino,Coquimbo,Urbana,Alta,Mixto,Eliminarse,1
+57,35,Femenino,Tarapaca,Urbana,Alta,Mixto,Mantenerse,2
+58,76,Femenino,Araucania,Rural,Media,Mixto,Modificarse,2
+59,56,Femenino,Maule,Urbana,Ninguna,Mixto,Mantenerse,2
+60,38,Masculino,Arica,Urbana,Baja,AFP,Modificarse,2
+61,33,Masculino,Antofagasta,Urbana,Baja,Estatal,Eliminarse,1
+62,54,Femenino,OHiggins,Urbana,Media,Estatal,Modificarse,1
+63,42,Femenino,Los rios,Rural,Media,AFP,Modificarse,2
+64,41,Femenino,Los rios,Urbana,Alta,AFP,Mantenerse,2
+65,45,Masculino,Los Lagos,Rural,Ninguna,AFP,Mantenerse,2
+66,78,Femenino,Atacama,Urbana,Ninguna,Mixto,Modificarse,2
+67,37,Masculino,Bío Bio,Urbana,Muy Alta,Estatal,Eliminarse,1
+68,19,Masculino,Coquimbo,Rural,Alta,Mixto,Mantenerse,2
+69,63,Femenino,Arica,Urbana,Alta,Estatal,Mantenerse,2
+70,25,Femenino,Bío Bio,Urbana,Alta,Estatal,Eliminarse,1
+71,40,Femenino,Valparaiso,Urbana,Alta,Mixto,Modificarse,2
+72,32,Masculino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse,1
+73,18,Femenino,Ñuble,Urbana,Alta,AFP,Modificarse,2
+74,57,Femenino,Arica,Urbana,Muy Alta,Estatal,Eliminarse,1
+75,23,Femenino,Valparaiso,Urbana,Muy Alta,Mixto,Eliminarse,1
+76,25,Femenino,Coquimbo,Urbana,Media,Mixto,Modificarse,2
+77,37,No Binario,Los Lagos,Urbana,Alta,Mixto,Eliminarse,1
+78,46,Femenino,Ñuble,Urbana,Muy Alta,Estatal,Modificarse,1
+79,25,Masculino,Maule,Rural,Muy Alta,Mixto,Eliminarse,1
+80,38,Femenino,Maule,Rural,Muy Alta,Mixto,Modificarse,1
+81,20,Masculino,Antofagasta,Urbana,Baja,Estatal,Eliminarse,1
+82,36,Masculino,Maule,Urbana,Media,AFP,Modificarse,2
+83,53,Femenino,Magallanes,Urbana,Media,AFP,Modificarse,2
+84,68,Masculino,Los Lagos,Urbana,Ninguna,Mixto,Mantenerse,2
+85,38,Femenino,Atacama,Rural,Alta,AFP,Mantenerse,2
+86,22,Femenino,Metropolitana,Urbana,Alta,Mixto,Eliminarse,1
+87,23,Femenino,Coquimbo,Urbana,Alta,AFP,Mantenerse,2
+88,20,Femenino,Bío Bio,Urbana,Alta,Mixto,Modificarse,2
+89,34,Femenino,Los Lagos,Urbana,Alta,Estatal,Modificarse,1
+90,68,Masculino,Maule,Urbana,Media,Estatal,Modificarse,1
+91,44,Masculino,Araucania,Urbana,Baja,Estatal,Eliminarse,1
+92,40,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse,1
+93,55,Masculino,OHiggins,Rural,Baja,Estatal,Mantenerse,2
+94,30,Masculino,Maule,Urbana,Media,Mixto,Eliminarse,1
+95,43,Masculino,Aysen,Urbana,Muy Alta,Mixto,Modificarse,1
+96,19,Femenino,Bío Bio,Urbana,Alta,Mixto,Modificarse,1
+97,22,Masculino,OHiggins,Rural,Muy Alta,Estatal,Eliminarse,1
+98,23,Masculino,Los Lagos,Urbana,Muy Alta,Mixto,Eliminarse,1
+99,27,Masculino,Ñuble,Rural,Muy Alta,Mixto,Mantenerse,2
+100,26,Masculino,Ñuble,Urbana,Alta,Estatal,Modificarse,1
+101,38,Femenino,Aysen,Urbana,Alta,Estatal,Eliminarse,1
+102,59,Masculino,Aysen,Urbana,Baja,AFP,Mantenerse,2
+103,39,Masculino,Atacama,Rural,Ninguna,AFP,Mantenerse,2
+104,22,Femenino,Valparaiso,Urbana,Media,Estatal,Eliminarse,1
+105,25,Femenino,Coquimbo,Urbana,Baja,AFP,Modificarse,2
+106,42,Femenino,Valparaiso,Urbana,Muy Alta,Estatal,Mantenerse,1
+107,22,Masculino,Los Lagos,Rural,Alta,Mixto,Mantenerse,2
+108,24,Femenino,Metropolitana,Urbana,Alta,Mixto,Modificarse,1
+109,20,Femenino,Bío Bio,Urbana,Muy Alta,Mixto,Modificarse,2
+110,45,Masculino,Antofagasta,Urbana,Alta,Estatal,Modificarse,1
+111,25,Masculino,Aysen,Rural,Muy Alta,Mixto,Eliminarse,1
+112,70,Femenino,OHiggins,Urbana,Media,Estatal,Eliminarse,1
+113,32,Femenino,Valparaiso,Urbana,Baja,Estatal,Eliminarse,1
+114,19,Masculino,OHiggins,Urbana,Media,Mixto,Mantenerse,2
+115,44,Femenino,Bío Bio,Urbana,Muy Alta,Estatal,Modificarse,1
+116,22,Femenino,Aysen,Urbana,Muy Alta,Estatal,Eliminarse,1
+117,31,Femenino,Los rios,Urbana,Baja,Estatal,Modificarse,1
+118,21,Femenino,Los Lagos,Urbana,Alta,Estatal,Eliminarse,1
+119,45,Masculino,Los rios,Urbana,Ninguna,AFP,Mantenerse,2
+120,41,Femenino,Metropolitana,Urbana,Baja,Mixto,Modificarse,2
+121,36,No Binario,Arica,Urbana,Muy Alta,Mixto,Modificarse,1
+122,50,Femenino,Coquimbo,Urbana,Alta,Mixto,Mantenerse,2
+123,75,Masculino,Coquimbo,Urbana,Baja,Mixto,Mantenerse,2
+124,27,Masculino,Aysen,Urbana,Media,Estatal,Eliminarse,1
+125,44,No Binario,Aysen,Urbana,Muy Alta,Mixto,Modificarse,1
+126,41,Femenino,Arica,Urbana,Muy Alta,Estatal,Modificarse,1
+127,26,No Binario,OHiggins,Urbana,Alta,Estatal,Eliminarse,1
+128,18,Femenino,Arica,Urbana,Muy Alta,Mixto,Mantenerse,2
+129,29,Femenino,Los Lagos,Urbana,Media,Estatal,Modificarse,1
+130,63,Masculino,Arica,Rural,Ninguna,Estatal,Mantenerse,2
+131,64,Femenino,OHiggins,Urbana,Baja,Mixto,Mantenerse,2
+132,25,Masculino,Maule,Urbana,Alta,Mixto,Modificarse,2
+133,19,Femenino,OHiggins,Rural,Media,Estatal,Modificarse,1
+134,25,Masculino,Los rios,Urbana,Alta,AFP,Modificarse,2
+135,43,Femenino,Antofagasta,Urbana,Media,Estatal,Eliminarse,1
+136,51,Femenino,Arica,Urbana,Alta,AFP,Modificarse,2
+137,65,Masculino,Araucania,Rural,Media,Mixto,Mantenerse,2
+138,41,Femenino,Tarapaca,Urbana,Baja,AFP,Mantenerse,2
+139,24,Femenino,Los rios,Urbana,Muy Alta,AFP,Eliminarse,2
+140,58,Femenino,Los rios,Rural,Muy Alta,Estatal,Modificarse,1
+141,66,Femenino,Bío Bio,Rural,Muy Alta,Estatal,Modificarse,1
+142,56,Masculino,Valparaiso,Urbana,Alta,Estatal,Modificarse,1
+143,77,Masculino,Coquimbo,Urbana,Muy Alta,Mixto,Mantenerse,1
+144,23,Masculino,Coquimbo,Urbana,Media,Mixto,Eliminarse,1
+145,71,Femenino,OHiggins,Urbana,Media,Estatal,Mantenerse,2
+146,30,Masculino,Antofagasta,Urbana,Muy Alta,Mixto,Eliminarse,1
+147,45,Femenino,Ñuble,Urbana,Media,AFP,Mantenerse,2
+148,51,Masculino,Tarapaca,Rural,Media,Mixto,Mantenerse,2
+149,33,Femenino,Magallanes,Urbana,Alta,Mixto,Eliminarse,1
+150,48,No Binario,Magallanes,Urbana,Muy Alta,Mixto,Eliminarse,1
+151,18,Femenino,Magallanes,Urbana,Muy Alta,AFP,Mantenerse,2
+152,27,Masculino,Atacama,Rural,Muy Alta,Estatal,Eliminarse,1
+153,34,Femenino,Arica,Urbana,Alta,AFP,Mantenerse,2
+154,51,Masculino,Atacama,Urbana,Media,Estatal,Modificarse,1
+155,23,Masculino,Los Lagos,Urbana,Alta,Estatal,Eliminarse,1
+156,80,Masculino,Arica,Urbana,Media,Mixto,Mantenerse,2
+157,26,Femenino,Maule,Rural,Alta,Estatal,Eliminarse,1
+158,43,Femenino,Tarapaca,Urbana,Alta,Mixto,Eliminarse,1
+159,24,Femenino,Magallanes,Urbana,Muy Alta,Estatal,Eliminarse,1
+160,21,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse,1
+161,26,Femenino,Los rios,Rural,Muy Alta,Estatal,Eliminarse,1
+162,41,No Binario,Magallanes,Urbana,Alta,Estatal,Modificarse,1
+163,34,Masculino,Atacama,Urbana,Muy Alta,Mixto,Modificarse,1
+164,28,No Binario,Antofagasta,Urbana,Muy Alta,Mixto,Eliminarse,1
+165,22,Femenino,Antofagasta,Rural,Muy Alta,Estatal,Eliminarse,1
+166,47,Femenino,Ñuble,Urbana,Media,Mixto,Mantenerse,2
+167,76,Masculino,Ñuble,Urbana,Media,Mixto,Mantenerse,2
+168,64,Femenino,Arica,Urbana,Media,Estatal,Modificarse,1
+169,23,Femenino,Valparaiso,Urbana,Muy Alta,Mixto,Eliminarse,1
+170,38,No Binario,OHiggins,Urbana,Muy Alta,Estatal,Modificarse,1
+171,39,Femenino,Metropolitana,Urbana,Alta,Mixto,Eliminarse,1
+172,43,Femenino,OHiggins,Urbana,Muy Alta,Mixto,Eliminarse,1
+173,56,Masculino,Los rios,Rural,Media,Mixto,Mantenerse,2
+174,32,Femenino,Antofagasta,Rural,Alta,Estatal,Eliminarse,1
+175,19,Masculino,Los Lagos,Rural,Alta,AFP,Mantenerse,2
+176,38,Femenino,Los rios,Urbana,Alta,AFP,Mantenerse,2
+177,18,Femenino,Ñuble,Urbana,Muy Alta,AFP,Mantenerse,2
+178,33,Masculino,Tarapaca,Urbana,Alta,Estatal,Eliminarse,1
+179,34,Masculino,Los Lagos,Urbana,Alta,AFP,Modificarse,2
+180,53,No Binario,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse,1
+181,30,Masculino,Antofagasta,Urbana,Muy Alta,Mixto,Modificarse,2
+182,40,Masculino,Valparaiso,Urbana,Alta,AFP,Mantenerse,2
+183,18,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse,1
+184,34,Femenino,Valparaiso,Urbana,Muy Alta,Mixto,Eliminarse,1
+185,35,Femenino,Coquimbo,Urbana,Media,Estatal,Modificarse,1
+186,20,Femenino,Metropolitana,Urbana,Media,Estatal,Eliminarse,1
+187,24,Masculino,Coquimbo,Urbana,Muy Alta,AFP,Mantenerse,2
+188,62,Femenino,Maule,Rural,Media,Mixto,Mantenerse,2
+189,25,Masculino,Magallanes,Rural,Alta,Estatal,Eliminarse,1
+190,35,Femenino,Ñuble,Rural,Muy Alta,Mixto,Mantenerse,2
+191,52,Femenino,Maule,Rural,Media,Mixto,Mantenerse,2
+192,21,Femenino,Bío Bio,Urbana,Media,AFP,Modificarse,2
+193,26,No Binario,Bío Bio,Urbana,Alta,Estatal,Modificarse,1
+194,76,Femenino,Atacama,Rural,Muy Alta,Mixto,Mantenerse,1
+195,48,Femenino,Atacama,Urbana,Alta,Estatal,Modificarse,2
+196,36,Masculino,Bío Bio,Rural,Muy Alta,Estatal,Eliminarse,1
+197,20,Masculino,Ñuble,Urbana,Media,Mixto,Modificarse,2
+198,43,Femenino,Araucania,Rural,Media,Mixto,Modificarse,2
+199,76,Masculino,Metropolitana,Urbana,Baja,Estatal,Eliminarse,1
+200,21,Femenino,Bío Bio,Urbana,Muy Alta,Mixto,Mantenerse,2
+201,42,Masculino,OHiggins,Urbana,Muy Alta,Estatal,Mantenerse,1
+202,34,Femenino,Valparaiso,Urbana,Alta,Mixto,Eliminarse,1
+203,22,Masculino,OHiggins,Rural,Alta,Mixto,Modificarse,2
+204,41,Masculino,Coquimbo,Urbana,Ninguna,Mixto,Modificarse,2
+205,28,Femenino,Coquimbo,Urbana,Baja,AFP,Mantenerse,2
+206,54,Femenino,Valparaiso,Urbana,Alta,Mixto,Mantenerse,1
+207,63,Femenino,Atacama,Urbana,Alta,Mixto,Modificarse,2
+208,33,Femenino,Antofagasta,Urbana,Muy Alta,Estatal,Eliminarse,1
+209,41,Masculino,Valparaiso,Urbana,Muy Alta,Estatal,Eliminarse,1
+210,55,Femenino,Bío Bio,Urbana,Media,Estatal,Mantenerse,2
+211,21,Femenino,Antofagasta,Urbana,Media,Estatal,Eliminarse,1
+212,19,Femenino,Los Lagos,Rural,Muy Alta,Mixto,Eliminarse,1
+213,42,Masculino,Atacama,Urbana,Alta,Mixto,Eliminarse,1
+214,61,Femenino,Tarapaca,Urbana,Alta,Estatal,Mantenerse,1
+215,49,Masculino,Los rios,Urbana,Ninguna,AFP,Mantenerse,2
+216,40,Femenino,Ñuble,Urbana,Baja,Estatal,Modificarse,1
+217,41,Femenino,Araucania,Urbana,Media,AFP,Mantenerse,2
+218,39,Masculino,Valparaiso,Urbana,Baja,AFP,Mantenerse,2
+219,36,Masculino,Atacama,Urbana,Baja,Mixto,Mantenerse,2
+220,56,Femenino,Tarapaca,Urbana,Alta,Mixto,Modificarse,2
+221,49,Femenino,Valparaiso,Urbana,Alta,Estatal,Modificarse,1
+222,47,Masculino,Coquimbo,Urbana,Media,AFP,Modificarse,2
+223,36,Masculino,Maule,Rural,Ninguna,Mixto,Mantenerse,2
+224,27,Masculino,Aysen,Urbana,Media,Mixto,Mantenerse,2
+225,20,Femenino,Magallanes,Urbana,Alta,Estatal,Modificarse,1
+226,69,Femenino,Bío Bio,Rural,Ninguna,Estatal,Mantenerse,2
+227,24,Femenino,Coquimbo,Rural,Alta,Mixto,Mantenerse,2
+228,60,Masculino,Maule,Urbana,Baja,Estatal,Modificarse,1
+229,45,Masculino,Bío Bio,Urbana,Media,AFP,Mantenerse,2
+230,26,Masculino,Atacama,Urbana,Media,Mixto,Mantenerse,2
+231,63,Femenino,OHiggins,Urbana,Baja,Mixto,Mantenerse,2
+232,35,Femenino,Ñuble,Urbana,Muy Alta,Estatal,Eliminarse,1
+233,41,Femenino,Los Lagos,Urbana,Muy Alta,Mixto,Eliminarse,1
+234,21,No Binario,Ñuble,Urbana,Alta,Estatal,Modificarse,1
+235,25,Masculino,Araucania,Rural,Media,AFP,Mantenerse,2
+236,24,Femenino,Magallanes,Urbana,Muy Alta,Estatal,Eliminarse,1
+237,33,Femenino,Atacama,Urbana,Muy Alta,Mixto,Mantenerse,2
+238,50,Femenino,Tarapaca,Urbana,Alta,AFP,Mantenerse,2
+239,44,Femenino,Los Lagos,Urbana,Media,Mixto,Modificarse,2
+240,35,Masculino,Magallanes,Urbana,Muy Alta,Estatal,Modificarse,1
+241,29,Femenino,Magallanes,Urbana,Alta,Estatal,Eliminarse,1
+242,21,No Binario,Ñuble,Urbana,Muy Alta,Estatal,Modificarse,1
+243,25,No Binario,Ñuble,Urbana,Media,Estatal,Modificarse,1
+244,46,Femenino,Atacama,Urbana,Muy Alta,Estatal,Eliminarse,1
+245,20,Masculino,Araucania,Rural,Alta,AFP,Mantenerse,2
+246,23,Masculino,Tarapaca,Urbana,Media,AFP,Mantenerse,2
+247,22,Femenino,Araucania,Rural,Media,AFP,Modificarse,2
+248,48,Masculino,Magallanes,Urbana,Alta,Mixto,Eliminarse,1
+249,22,No Binario,Bío Bio,Urbana,Alta,Mixto,Modificarse,1
+250,21,Masculino,Magallanes,Urbana,Alta,AFP,Mantenerse,2
+251,37,Masculino,Coquimbo,Rural,Media,AFP,Modificarse,2
+252,37,Masculino,Magallanes,Urbana,Alta,Estatal,Modificarse,1
+253,44,Masculino,Los Lagos,Urbana,Baja,AFP,Modificarse,2
+254,25,Femenino,Coquimbo,Urbana,Alta,Mixto,Eliminarse,1
+255,50,Masculino,Atacama,Urbana,Muy Alta,Mixto,Mantenerse,1
+256,25,Masculino,Coquimbo,Urbana,Alta,AFP,Mantenerse,2
+257,41,Femenino,Magallanes,Urbana,Baja,Mixto,Mantenerse,1
+258,77,Masculino,Los Lagos,Rural,Baja,AFP,Mantenerse,2
+259,35,Femenino,Los rios,Rural,Muy Alta,Mixto,Mantenerse,2
+260,19,Femenino,Metropolitana,Urbana,Media,Mixto,Eliminarse,1
+261,73,Femenino,Valparaiso,Rural,Media,Estatal,Eliminarse,1
+262,27,Femenino,Bío Bio,Urbana,Alta,AFP,Mantenerse,2
+263,64,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse,1
+264,26,Femenino,Atacama,Urbana,Muy Alta,AFP,Mantenerse,2
+265,32,Masculino,Maule,Urbana,Muy Alta,Estatal,Eliminarse,1
+266,21,Femenino,Magallanes,Urbana,Alta,Estatal,Eliminarse,1
+267,42,Femenino,Arica,Urbana,Muy Alta,Estatal,Modificarse,1
+268,28,Femenino,Maule,Urbana,Alta,AFP,Mantenerse,2
+269,21,Femenino,Aysen,Rural,Muy Alta,Estatal,Modificarse,1
+270,43,Femenino,Antofagasta,Urbana,Baja,Mixto,Modificarse,2
+271,23,Masculino,Maule,Rural,Muy Alta,Mixto,Modificarse,2
+272,20,Masculino,Arica,Urbana,Alta,Estatal,Eliminarse,1
+273,65,Masculino,Antofagasta,Urbana,Baja,Mixto,Mantenerse,2
+274,32,Femenino,Maule,Urbana,Muy Alta,Estatal,Modificarse,1
+275,26,No Binario,Magallanes,Urbana,Media,Mixto,Eliminarse,1
+276,41,Femenino,Atacama,Urbana,Media,AFP,Mantenerse,2
+277,66,Femenino,Metropolitana,Urbana,Alta,Mixto,Mantenerse,2
+278,49,Masculino,Valparaiso,Urbana,Media,AFP,Mantenerse,2
+279,44,Masculino,Coquimbo,Rural,Muy Alta,Estatal,Eliminarse,1
+280,23,Femenino,Magallanes,Rural,Baja,Mixto,Modificarse,1
+281,28,Femenino,Aysen,Urbana,Alta,AFP,Modificarse,2
+282,31,Femenino,Magallanes,Urbana,Alta,Estatal,Modificarse,1
+283,22,Masculino,Antofagasta,Urbana,Media,Mixto,Modificarse,2
+284,31,No Binario,Valparaiso,Urbana,Media,Mixto,Eliminarse,1
+285,36,Masculino,Magallanes,Urbana,Alta,Estatal,Modificarse,1
+286,51,Femenino,Los Lagos,Urbana,Alta,Mixto,Mantenerse,2
+287,20,Femenino,Magallanes,Urbana,Baja,Estatal,Modificarse,1
+288,61,Masculino,Aysen,Rural,Media,Estatal,Mantenerse,1
+289,52,Femenino,OHiggins,Urbana,Media,Mixto,Modificarse,2
+290,46,Masculino,Los rios,Urbana,Media,AFP,Mantenerse,2
+291,51,Masculino,Ñuble,Urbana,Baja,Mixto,Mantenerse,2
+292,42,Masculino,Ñuble,Urbana,Baja,Mixto,Modificarse,2
+293,53,Masculino,Los Lagos,Urbana,Baja,Mixto,Mantenerse,2
+294,53,Masculino,OHiggins,Urbana,Media,Estatal,Modificarse,1
+295,24,Femenino,Valparaiso,Urbana,Alta,Mixto,Eliminarse,1
+296,27,Femenino,Ñuble,Urbana,Muy Alta,Estatal,Eliminarse,1
+297,63,Femenino,Los rios,Urbana,Baja,Mixto,Mantenerse,2
+298,58,Femenino,Valparaiso,Urbana,Media,AFP,Mantenerse,2
+299,21,Femenino,Los Lagos,Rural,Muy Alta,Mixto,Modificarse,2
+300,19,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse,1
+301,19,No Binario,Valparaiso,Urbana,Alta,Estatal,Modificarse,1
+302,75,Masculino,Ñuble,Rural,Muy Alta,Estatal,Eliminarse,1
+303,61,Femenino,Bío Bio,Rural,Alta,Mixto,Mantenerse,2
+304,30,No Binario,Magallanes,Urbana,Media,Estatal,Modificarse,1
+305,23,No Binario,Arica,Urbana,Media,Estatal,Eliminarse,1
+306,60,Masculino,Magallanes,Urbana,Ninguna,AFP,Mantenerse,2
+307,75,Femenino,Los rios,Rural,Baja,Estatal,Mantenerse,1
+308,45,Femenino,Coquimbo,Urbana,Alta,Mixto,Modificarse,1
+309,36,Masculino,Maule,Rural,Media,AFP,Modificarse,2
+310,23,Masculino,OHiggins,Urbana,Media,AFP,Mantenerse,2
+311,36,Masculino,Magallanes,Urbana,Muy Alta,Mixto,Modificarse,1
+312,76,Femenino,Magallanes,Urbana,Alta,Estatal,Modificarse,1
+313,36,Femenino,Maule,Urbana,Muy Alta,Estatal,Modificarse,1
+314,25,Masculino,Coquimbo,Rural,Muy Alta,Mixto,Eliminarse,1
+315,20,Femenino,Antofagasta,Urbana,Muy Alta,Mixto,Modificarse,2
+316,18,No Binario,Valparaiso,Urbana,Media,Mixto,Modificarse,1
+317,53,Masculino,Los rios,Urbana,Ninguna,Estatal,Mantenerse,2
+318,38,Femenino,Tarapaca,Urbana,Alta,Mixto,Modificarse,2
+319,62,Femenino,Valparaiso,Urbana,Alta,AFP,Mantenerse,2
+320,42,Masculino,Antofagasta,Urbana,Muy Alta,Estatal,Eliminarse,1
+321,41,Femenino,Arica,Urbana,Alta,Mixto,Modificarse,2
+322,55,Femenino,Bío Bio,Urbana,Ninguna,Mixto,Mantenerse,2
+323,21,Masculino,Araucania,Rural,Media,Mixto,Modificarse,2
+324,25,Femenino,Arica,Urbana,Muy Alta,AFP,Modificarse,2
+325,21,Femenino,Aysen,Rural,Muy Alta,Mixto,Eliminarse,1
+326,27,Masculino,Atacama,Urbana,Baja,Mixto,Eliminarse,1
+327,48,Masculino,OHiggins,Rural,Alta,Mixto,Eliminarse,1
+328,43,Masculino,Tarapaca,Urbana,Ninguna,AFP,Modificarse,2
+329,59,Femenino,Antofagasta,Urbana,Ninguna,Estatal,Mantenerse,2
+330,22,No Binario,Antofagasta,Urbana,Media,Estatal,Eliminarse,1
+331,19,Femenino,Magallanes,Urbana,Muy Alta,Estatal,Eliminarse,1
+332,20,Femenino,Magallanes,Urbana,Alta,AFP,Mantenerse,2
+333,40,Femenino,Los rios,Urbana,Alta,Mixto,Mantenerse,2
+334,24,No Binario,Atacama,Urbana,Muy Alta,Estatal,Eliminarse,1
+335,66,Masculino,Maule,Rural,Baja,Mixto,Mantenerse,2
+336,18,Femenino,Coquimbo,Rural,Alta,Estatal,Eliminarse,1
+337,42,No Binario,Metropolitana,Urbana,Alta,Estatal,Eliminarse,1
+338,25,Femenino,Bío Bio,Urbana,Baja,Estatal,Eliminarse,1
+339,34,Femenino,Ñuble,Rural,Muy Alta,Estatal,Eliminarse,1
+340,20,Masculino,Magallanes,Urbana,Muy Alta,AFP,Mantenerse,2
+341,24,Masculino,Antofagasta,Urbana,Baja,Estatal,Modificarse,1
+342,38,Masculino,Magallanes,Urbana,Baja,AFP,Modificarse,2
+343,25,Femenino,Atacama,Urbana,Media,Estatal,Modificarse,1
+344,33,Femenino,Valparaiso,Urbana,Alta,Mixto,Eliminarse,1
+345,45,Masculino,Coquimbo,Urbana,Alta,Mixto,Mantenerse,2
+346,22,Femenino,Ñuble,Urbana,Muy Alta,Estatal,Modificarse,1
+347,33,No Binario,Arica,Urbana,Media,Estatal,Modificarse,1
+348,52,Masculino,Antofagasta,Urbana,Media,Mixto,Mantenerse,2
+349,36,Masculino,Valparaiso,Urbana,Muy Alta,Estatal,Mantenerse,1
+350,69,Femenino,Aysen,Urbana,Alta,Mixto,Mantenerse,2
+351,41,Masculino,Los rios,Urbana,Media,Estatal,Eliminarse,1
+352,28,Femenino,Arica,Urbana,Media,Mixto,Eliminarse,2
+353,67,Femenino,Antofagasta,Urbana,Muy Alta,Estatal,Modificarse,1
+354,26,Masculino,Magallanes,Urbana,Media,Mixto,Mantenerse,2
+355,34,Masculino,Metropolitana,Urbana,Baja,Estatal,Eliminarse,1
+356,51,Masculino,Magallanes,Urbana,Ninguna,Mixto,Mantenerse,2
+357,34,Femenino,Valparaiso,Urbana,Media,Estatal,Eliminarse,1
+358,62,Femenino,Los rios,Rural,Baja,Estatal,Mantenerse,1
+359,18,Femenino,Tarapaca,Urbana,Muy Alta,AFP,Modificarse,2
+360,28,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse,1
+361,37,Masculino,Atacama,Urbana,Baja,AFP,Mantenerse,2
+362,60,Masculino,Aysen,Urbana,Media,Mixto,Eliminarse,1
+363,33,Femenino,Valparaiso,Urbana,Muy Alta,Estatal,Eliminarse,1
+364,22,No Binario,Bío Bio,Urbana,Muy Alta,Mixto,Modificarse,1
+365,34,Masculino,Bío Bio,Urbana,Media,Mixto,Modificarse,2
+366,48,Femenino,Ñuble,Urbana,Media,Estatal,Eliminarse,1
+367,55,Masculino,Arica,Urbana,Ninguna,Mixto,Mantenerse,2
+368,51,Femenino,Atacama,Urbana,Media,Estatal,Modificarse,1
+369,38,Femenino,Valparaiso,Urbana,Media,Mixto,Modificarse,2
+370,78,Masculino,Maule,Rural,Ninguna,Estatal,Mantenerse,2
+371,40,Masculino,OHiggins,Rural,Muy Alta,Estatal,Eliminarse,1
+372,61,Femenino,Araucania,Urbana,Ninguna,AFP,Mantenerse,2
+373,41,Femenino,Los Lagos,Rural,Ninguna,Mixto,Modificarse,2
+374,77,Masculino,Maule,Rural,Media,Mixto,Mantenerse,2
+375,32,Masculino,Metropolitana,Urbana,Baja,Mixto,Modificarse,1
+376,18,Femenino,Tarapaca,Urbana,Alta,AFP,Modificarse,2
+377,33,Femenino,Arica,Urbana,Alta,Mixto,Mantenerse,2
+378,27,No Binario,Bío Bio,Urbana,Muy Alta,Estatal,Eliminarse,1
+379,56,Femenino,Maule,Urbana,Media,Estatal,Mantenerse,1
+380,53,Femenino,Magallanes,Urbana,Ninguna,Mixto,Mantenerse,2
+381,45,Masculino,Atacama,Urbana,Baja,Estatal,Eliminarse,1
+382,33,Femenino,Coquimbo,Urbana,Muy Alta,Mixto,Eliminarse,1
+383,29,No Binario,Arica,Urbana,Media,Estatal,Eliminarse,1
+384,22,Femenino,Los Lagos,Urbana,Alta,Estatal,Eliminarse,1
+385,25,Masculino,Arica,Urbana,Muy Alta,Estatal,Modificarse,1
+386,22,Masculino,Araucania,Urbana,Alta,Mixto,Mantenerse,2
+387,30,No Binario,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse,1
+388,53,No Binario,Arica,Urbana,Muy Alta,Estatal,Modificarse,1
+389,34,Femenino,Aysen,Urbana,Media,Mixto,Eliminarse,1
+390,58,Femenino,OHiggins,Urbana,Media,AFP,Mantenerse,2
+391,26,Masculino,OHiggins,Urbana,Muy Alta,Mixto,Modificarse,1
+392,35,Femenino,Maule,Rural,Muy Alta,Mixto,Eliminarse,1
+393,25,Masculino,Maule,Rural,Muy Alta,Mixto,Modificarse,2
+394,23,Masculino,Los Lagos,Urbana,Muy Alta,Estatal,Modificarse,1
+395,42,Masculino,Los rios,Urbana,Muy Alta,Mixto,Eliminarse,1
+396,47,Masculino,Tarapaca,Urbana,Media,AFP,Mantenerse,2
+397,64,Masculino,Los rios,Rural,Baja,Mixto,Modificarse,1
+398,39,Femenino,Ñuble,Rural,Ninguna,Estatal,Mantenerse,2
+399,30,Femenino,Atacama,Urbana,Media,AFP,Eliminarse,2
+400,64,Femenino,OHiggins,Urbana,Baja,AFP,Mantenerse,2
+401,21,No Binario,Valparaiso,Urbana,Muy Alta,Mixto,Eliminarse,1
+402,44,Femenino,Metropolitana,Urbana,Baja,Mixto,Eliminarse,1
+403,29,No Binario,Araucania,Urbana,Alta,Estatal,Modificarse,1
+404,40,Femenino,Araucania,Urbana,Media,Mixto,Modificarse,2
+405,36,Masculino,Aysen,Urbana,Baja,Mixto,Mantenerse,2
+406,21,Masculino,Ñuble,Urbana,Alta,AFP,Modificarse,2
+407,36,Femenino,Atacama,Urbana,Alta,AFP,Mantenerse,2
+408,28,Femenino,OHiggins,Urbana,Baja,Estatal,Modificarse,1
+409,40,Femenino,Atacama,Urbana,Muy Alta,Estatal,Eliminarse,1
+410,19,Femenino,Magallanes,Urbana,Alta,Mixto,Eliminarse,1
+411,77,Femenino,Antofagasta,Urbana,Baja,Estatal,Mantenerse,2
+412,53,Masculino,Atacama,Urbana,Baja,Mixto,Mantenerse,2
+413,33,Masculino,Valparaiso,Urbana,Muy Alta,Mixto,Modificarse,1
+414,20,Masculino,Magallanes,Urbana,Muy Alta,Mixto,Mantenerse,2
+415,55,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse,2
+416,35,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse,1
+417,28,Femenino,Antofagasta,Urbana,Alta,Estatal,Eliminarse,1
+418,24,No Binario,Tarapaca,Urbana,Media,Estatal,Modificarse,1
+419,25,Masculino,Araucania,Urbana,Media,AFP,Mantenerse,2
+420,56,Femenino,Aysen,Urbana,Baja,Estatal,Mantenerse,2
+421,65,Femenino,Los rios,Urbana,Media,Estatal,Mantenerse,1
+422,24,Masculino,OHiggins,Rural,Baja,Estatal,Eliminarse,1
+423,38,Femenino,Los rios,Rural,Muy Alta,Estatal,Eliminarse,1
+424,57,Masculino,Los rios,Rural,Baja,Estatal,Mantenerse,2
+425,38,Masculino,Atacama,Urbana,Baja,AFP,Modificarse,2
+426,21,Femenino,Maule,Urbana,Muy Alta,Estatal,Modificarse,1
+427,46,Masculino,Los Lagos,Rural,Baja,AFP,Mantenerse,2
+428,35,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Modificarse,2
+429,25,Femenino,Los Lagos,Urbana,Muy Alta,Mixto,Mantenerse,2
+430,24,Femenino,Tarapaca,Urbana,Alta,Mixto,Eliminarse,1
+431,55,Femenino,Tarapaca,Urbana,Alta,Mixto,Mantenerse,2
+432,55,Femenino,Bío Bio,Urbana,Baja,Mixto,Modificarse,1
+433,19,No Binario,Magallanes,Urbana,Media,Mixto,Modificarse,1
+434,31,Masculino,Araucania,Rural,Media,Mixto,Modificarse,2
+435,24,Femenino,Bío Bio,Rural,Baja,Mixto,Modificarse,2
+436,50,Femenino,Maule,Rural,Muy Alta,Estatal,Modificarse,1
+437,28,No Binario,Aysen,Urbana,Muy Alta,Estatal,Modificarse,1
+438,25,Masculino,Araucania,Urbana,Alta,Mixto,Mantenerse,2
+439,76,Femenino,Bío Bio,Rural,Ninguna,AFP,Mantenerse,2
+440,19,No Binario,Magallanes,Urbana,Alta,Estatal,Modificarse,1
+441,66,Femenino,Atacama,Urbana,Media,Mixto,Mantenerse,2
+442,26,Masculino,Los Lagos,Urbana,Alta,Mixto,Modificarse,2
+443,45,Masculino,Metropolitana,Urbana,Media,Mixto,Eliminarse,1
+444,33,No Binario,Valparaiso,Urbana,Alta,Estatal,Eliminarse,1
+445,23,No Binario,Ñuble,Urbana,Media,Estatal,Modificarse,1
+446,35,Femenino,Coquimbo,Urbana,Alta,Mixto,Eliminarse,1
+447,42,Masculino,OHiggins,Urbana,Baja,Estatal,Mantenerse,1
+448,31,No Binario,Coquimbo,Urbana,Muy Alta,Estatal,Eliminarse,1
+449,24,Femenino,Magallanes,Urbana,Alta,Mixto,Eliminarse,1
+450,23,Femenino,Atacama,Urbana,Media,AFP,Mantenerse,2
+451,26,Femenino,Tarapaca,Urbana,Muy Alta,AFP,Modificarse,2
+452,69,Femenino,Atacama,Urbana,Muy Alta,Mixto,Eliminarse,1
+453,49,Femenino,Arica,Urbana,Muy Alta,Mixto,Mantenerse,1
+454,25,No Binario,Bío Bio,Urbana,Alta,Estatal,Eliminarse,1
+455,25,Masculino,Araucania,Rural,Muy Alta,Mixto,Mantenerse,2
+456,41,Masculino,Magallanes,Urbana,Alta,Estatal,Mantenerse,1
+457,23,Masculino,Magallanes,Urbana,Muy Alta,Estatal,Eliminarse,1
+458,30,Masculino,Tarapaca,Urbana,Alta,Estatal,Eliminarse,1
+459,44,Masculino,Coquimbo,Rural,Media,AFP,Mantenerse,2
+460,25,No Binario,Bío Bio,Urbana,Media,Estatal,Modificarse,1
+461,25,Femenino,Tarapaca,Urbana,Alta,AFP,Mantenerse,2
+462,25,No Binario,Maule,Urbana,Alta,Estatal,Eliminarse,1
+463,63,Masculino,Coquimbo,Urbana,Media,Mixto,Mantenerse,2
+464,44,Masculino,Atacama,Urbana,Muy Alta,Mixto,Mantenerse,1
+465,21,Masculino,Los rios,Urbana,Alta,Mixto,Eliminarse,1
+466,28,Femenino,Valparaiso,Urbana,Muy Alta,Estatal,Eliminarse,1
+467,49,Femenino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse,1
+468,35,Masculino,Los Lagos,Urbana,Alta,Estatal,Eliminarse,1
+469,22,Femenino,Metropolitana,Urbana,Alta,Mixto,Mantenerse,2
+470,30,Masculino,Metropolitana,Urbana,Baja,Estatal,Modificarse,1
+471,62,Masculino,Antofagasta,Urbana,Ninguna,Mixto,Mantenerse,2
+472,53,Femenino,Antofagasta,Urbana,Media,AFP,Modificarse,2
+473,60,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse,2
+474,48,Femenino,Araucania,Urbana,Muy Alta,Mixto,Mantenerse,1
+475,58,Masculino,Antofagasta,Rural,Ninguna,Mixto,Mantenerse,2
+476,26,No Binario,Ñuble,Urbana,Media,Estatal,Eliminarse,1
+477,38,Femenino,Valparaiso,Urbana,Alta,Mixto,Eliminarse,1
+478,31,Femenino,Antofagasta,Urbana,Muy Alta,Mixto,Modificarse,2
+479,45,No Binario,Arica,Urbana,Muy Alta,Estatal,Eliminarse,1
+480,28,Masculino,OHiggins,Urbana,Muy Alta,AFP,Mantenerse,2
+481,49,Masculino,Los Lagos,Rural,Ninguna,AFP,Modificarse,2
+482,26,Femenino,Los rios,Urbana,Alta,AFP,Modificarse,2
+483,23,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse,1
+484,18,No Binario,Magallanes,Urbana,Media,Mixto,Eliminarse,1
+485,74,Femenino,Aysen,Urbana,Media,AFP,Mantenerse,2
+486,22,Femenino,Antofagasta,Urbana,Muy Alta,Estatal,Modificarse,1
+487,24,Femenino,Araucania,Urbana,Muy Alta,Mixto,Eliminarse,1
+488,78,Femenino,Magallanes,Rural,Alta,Mixto,Mantenerse,2
+489,27,Masculino,OHiggins,Urbana,Baja,Mixto,Mantenerse,2
+490,27,Masculino,Aysen,Urbana,Alta,Mixto,Modificarse,2
+491,40,Masculino,Metropolitana,Urbana,Alta,Mixto,Eliminarse,1
+492,39,Femenino,Tarapaca,Rural,Muy Alta,Estatal,Modificarse,1
+493,61,Femenino,Aysen,Urbana,Alta,Estatal,Mantenerse,2
+494,24,Femenino,Antofagasta,Urbana,Media,Mixto,Eliminarse,1
+495,28,Femenino,Maule,Urbana,Alta,AFP,Eliminarse,2
+496,40,Masculino,Valparaiso,Urbana,Muy Alta,Estatal,Eliminarse,1
+497,36,No Binario,Maule,Urbana,Muy Alta,Mixto,Modificarse,1
+498,24,Masculino,Antofagasta,Rural,Muy Alta,Estatal,Eliminarse,1
+499,43,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Mantenerse,1
+500,54,Masculino,Magallanes,Urbana,Baja,Estatal,Mantenerse,1
+501,27,Masculino,Arica,Rural,Baja,Estatal,Modificarse,1
+502,21,No Binario,Los Lagos,Urbana,Alta,Estatal,Modificarse,1
+503,47,Masculino,Metropolitana,Urbana,Media,AFP,Mantenerse,2
+504,33,Masculino,Atacama,Urbana,Alta,Estatal,Modificarse,1
+505,50,Femenino,Antofagasta,Urbana,Alta,Estatal,Modificarse,1
+506,28,Femenino,OHiggins,Urbana,Muy Alta,Estatal,Eliminarse,1
+507,44,Femenino,Los Lagos,Rural,Alta,Estatal,Modificarse,1
+508,26,Masculino,Antofagasta,Urbana,Baja,Mixto,Modificarse,1
+509,60,Masculino,Bío Bio,Urbana,Media,Estatal,Modificarse,1
+510,39,Masculino,Araucania,Rural,Ninguna,Mixto,Modificarse,2
+511,32,Femenino,Aysen,Urbana,Muy Alta,Estatal,Modificarse,1
+512,30,Femenino,Tarapaca,Urbana,Media,Mixto,Eliminarse,1
+513,36,Femenino,Antofagasta,Rural,Alta,Estatal,Modificarse,1
+514,57,Femenino,Arica,Urbana,Media,AFP,Mantenerse,2
+515,25,Femenino,Arica,Rural,Alta,Estatal,Eliminarse,1
+516,23,Femenino,Bío Bio,Urbana,Alta,AFP,Mantenerse,2
+517,22,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse,1
+518,25,Femenino,Metropolitana,Urbana,Alta,Estatal,Eliminarse,1
+519,29,No Binario,Maule,Urbana,Alta,Estatal,Eliminarse,1
+520,54,Femenino,Tarapaca,Urbana,Ninguna,Estatal,Modificarse,2
+521,46,Femenino,Valparaiso,Urbana,Media,AFP,Modificarse,2
+522,79,Masculino,Coquimbo,Urbana,Baja,Estatal,Mantenerse,1
+523,42,Masculino,Arica,Urbana,Ninguna,Mixto,Modificarse,2
+524,22,No Binario,Ñuble,Urbana,Muy Alta,Estatal,Modificarse,1
+525,57,Femenino,Los Lagos,Urbana,Media,Mixto,Mantenerse,2
+526,26,Femenino,Valparaiso,Urbana,Muy Alta,Estatal,Modificarse,1
+527,36,Masculino,OHiggins,Urbana,Ninguna,Mixto,Mantenerse,2
+528,18,Femenino,Maule,Urbana,Alta,Estatal,Eliminarse,1
+529,63,Masculino,Tarapaca,Urbana,Baja,Estatal,Modificarse,1
+530,50,Femenino,Coquimbo,Urbana,Media,AFP,Modificarse,2
+531,51,Masculino,Los Lagos,Urbana,Ninguna,Estatal,Mantenerse,2
+532,32,No Binario,Los rios,Urbana,Media,Estatal,Modificarse,1
+533,20,Femenino,Araucania,Urbana,Alta,Mixto,Mantenerse,2
+534,64,Masculino,Tarapaca,Urbana,Ninguna,AFP,Mantenerse,2
+535,25,Femenino,Los rios,Urbana,Muy Alta,Mixto,Modificarse,1
+536,26,Femenino,Coquimbo,Urbana,Alta,Estatal,Modificarse,1
+537,38,Femenino,Arica,Urbana,Muy Alta,Estatal,Eliminarse,1
+538,66,Masculino,Aysen,Rural,Media,Estatal,Mantenerse,1
+539,39,Femenino,Los Lagos,Urbana,Media,Mixto,Modificarse,2
+540,53,Masculino,Arica,Rural,Baja,Mixto,Mantenerse,2
+541,24,Femenino,Antofagasta,Urbana,Media,Mixto,Eliminarse,1
+542,35,Femenino,Araucania,Rural,Baja,Mixto,Mantenerse,2
+543,27,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse,1
+544,40,Masculino,Los Lagos,Rural,Media,AFP,Mantenerse,2
+545,34,Femenino,Maule,Urbana,Muy Alta,Mixto,Modificarse,1
+546,21,Femenino,Antofagasta,Urbana,Media,Estatal,Modificarse,1
+547,62,Femenino,Maule,Urbana,Alta,Mixto,Modificarse,2
+548,26,Masculino,Atacama,Urbana,Muy Alta,Estatal,Eliminarse,1
+549,21,Femenino,Valparaiso,Urbana,Alta,Estatal,Modificarse,1
+550,75,Femenino,Araucania,Urbana,Ninguna,Estatal,Mantenerse,2
+551,45,Femenino,Araucania,Rural,Alta,Mixto,Eliminarse,1
+552,59,Femenino,Los rios,Urbana,Media,Estatal,Modificarse,1
+553,30,Masculino,Arica,Urbana,Alta,Estatal,Eliminarse,1
+554,38,Masculino,Atacama,Urbana,Media,AFP,Modificarse,2
+555,37,Masculino,Arica,Urbana,Baja,AFP,Mantenerse,2
+556,48,Femenino,Bío Bio,Urbana,Ninguna,Mixto,Mantenerse,2
+557,36,Femenino,Araucania,Rural,Alta,Mixto,Mantenerse,2
+558,70,Femenino,Antofagasta,Urbana,Muy Alta,Mixto,Modificarse,1
+559,31,Masculino,Ñuble,Urbana,Muy Alta,AFP,Mantenerse,2
+560,69,Femenino,Coquimbo,Urbana,Media,AFP,Mantenerse,2
+561,22,Femenino,Los rios,Rural,Alta,Estatal,Modificarse,1
+562,19,Femenino,Coquimbo,Rural,Alta,Mixto,Eliminarse,1
+563,45,Femenino,Atacama,Urbana,Media,Estatal,Eliminarse,1
+564,30,Femenino,Los rios,Urbana,Baja,Estatal,Eliminarse,1
+565,31,No Binario,Atacama,Urbana,Alta,Estatal,Modificarse,1
+566,55,Masculino,Magallanes,Urbana,Ninguna,Mixto,Mantenerse,2
+567,19,Masculino,Maule,Urbana,Baja,Estatal,Eliminarse,1
+568,44,Masculino,OHiggins,Urbana,Media,AFP,Modificarse,2
+569,28,Masculino,Tarapaca,Urbana,Media,AFP,Modificarse,2
+570,20,Femenino,OHiggins,Urbana,Alta,Mixto,Eliminarse,1
+571,26,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse,2
+572,61,Femenino,Atacama,Urbana,Media,Estatal,Modificarse,2
+573,49,Masculino,Coquimbo,Rural,Muy Alta,Mixto,Mantenerse,1
+574,65,Femenino,Los Lagos,Urbana,Alta,Estatal,Mantenerse,1
+575,55,Masculino,Ñuble,Urbana,Media,Mixto,Mantenerse,2
+576,48,Femenino,Metropolitana,Urbana,Alta,Mixto,Eliminarse,1
+577,43,Masculino,Bío Bio,Urbana,Baja,Estatal,Modificarse,1
+578,38,Masculino,Antofagasta,Urbana,Alta,Mixto,Eliminarse,1
+579,34,No Binario,Tarapaca,Urbana,Alta,Estatal,Modificarse,1
+580,42,Femenino,OHiggins,Urbana,Alta,Estatal,Modificarse,1
+581,28,Femenino,Metropolitana,Urbana,Media,Estatal,Eliminarse,1
+582,19,Masculino,Los rios,Rural,Muy Alta,AFP,Modificarse,2
+583,32,Femenino,Atacama,Urbana,Alta,Estatal,Modificarse,1
+584,35,Femenino,Magallanes,Urbana,Alta,Estatal,Eliminarse,1
+585,48,Femenino,Araucania,Urbana,Muy Alta,Estatal,Eliminarse,1
+586,30,Femenino,Coquimbo,Urbana,Media,AFP,Modificarse,2
+587,75,Femenino,Magallanes,Urbana,Alta,AFP,Mantenerse,2
+588,55,Femenino,Atacama,Urbana,Alta,Mixto,Mantenerse,2
+589,24,No Binario,Tarapaca,Urbana,Media,Mixto,Eliminarse,1
+590,19,Masculino,Tarapaca,Urbana,Muy Alta,Mixto,Modificarse,1
+591,45,Masculino,OHiggins,Urbana,Alta,Estatal,Modificarse,1
+592,45,Masculino,OHiggins,Urbana,Media,AFP,Modificarse,2
+593,28,Femenino,Metropolitana,Urbana,Alta,Estatal,Eliminarse,1
+594,71,Femenino,Bío Bio,Urbana,Media,Estatal,Mantenerse,1
+595,24,Masculino,Coquimbo,Rural,Muy Alta,Mixto,Mantenerse,2
+596,43,Femenino,Arica,Urbana,Muy Alta,Estatal,Mantenerse,1
+597,27,Masculino,Coquimbo,Urbana,Alta,Mixto,Mantenerse,2
+598,70,Masculino,Antofagasta,Urbana,Baja,AFP,Mantenerse,2
+599,37,No Binario,Coquimbo,Urbana,Muy Alta,Estatal,Eliminarse,1
+600,19,Femenino,Aysen,Urbana,Alta,Estatal,Eliminarse,1
+601,33,Masculino,Tarapaca,Urbana,Baja,Estatal,Eliminarse,1
+602,40,Masculino,Aysen,Urbana,Baja,AFP,Mantenerse,2
+603,55,Femenino,Valparaiso,Rural,Media,Mixto,Mantenerse,2
+604,46,Masculino,Coquimbo,Rural,Media,AFP,Modificarse,2
+605,32,Masculino,Coquimbo,Urbana,Alta,Mixto,Mantenerse,2
+606,63,Femenino,Atacama,Urbana,Muy Alta,Estatal,Mantenerse,1
+607,62,Femenino,Aysen,Urbana,Media,Estatal,Modificarse,1
+608,57,Femenino,Bío Bio,Urbana,Alta,Estatal,Eliminarse,1
+609,42,Masculino,Araucania,Rural,Baja,AFP,Mantenerse,2
+610,31,Femenino,Arica,Urbana,Muy Alta,Estatal,Modificarse,1
+611,35,Femenino,Bío Bio,Rural,Muy Alta,Mixto,Modificarse,1
+612,25,Masculino,Los Lagos,Rural,Alta,Mixto,Mantenerse,2
+613,48,No Binario,Ñuble,Urbana,Alta,Mixto,Eliminarse,1
+614,22,Masculino,Los rios,Rural,Muy Alta,Mixto,Mantenerse,2
+615,29,No Binario,OHiggins,Urbana,Media,Estatal,Modificarse,1
+616,76,Femenino,Los rios,Urbana,Muy Alta,Estatal,Modificarse,1
+617,29,Masculino,Araucania,Rural,Media,AFP,Modificarse,2
+618,55,Masculino,Araucania,Urbana,Baja,AFP,Mantenerse,2
+619,35,Femenino,Ñuble,Rural,Alta,Mixto,Eliminarse,2
+620,63,Femenino,Coquimbo,Urbana,Media,Estatal,Modificarse,1
+621,47,Masculino,Ñuble,Urbana,Alta,Estatal,Modificarse,1
+622,18,No Binario,Valparaiso,Urbana,Muy Alta,Estatal,Eliminarse,1
+623,20,Masculino,Magallanes,Rural,Muy Alta,Estatal,Eliminarse,1
+624,57,Femenino,Arica,Urbana,Baja,Mixto,Mantenerse,2
+625,44,Femenino,Araucania,Rural,Baja,Estatal,Mantenerse,2
+626,19,Masculino,Atacama,Urbana,Alta,Mixto,Mantenerse,2
+627,51,Femenino,Antofagasta,Urbana,Alta,Estatal,Mantenerse,2
+628,33,Femenino,Ñuble,Rural,Muy Alta,Mixto,Modificarse,1
+629,26,No Binario,Arica,Urbana,Alta,Estatal,Eliminarse,1
+630,22,No Binario,OHiggins,Urbana,Alta,Mixto,Modificarse,1
+631,61,Femenino,Antofagasta,Urbana,Alta,Estatal,Mantenerse,2
+632,29,Masculino,Arica,Urbana,Media,AFP,Modificarse,2
+633,45,Masculino,Los rios,Rural,Media,Estatal,Modificarse,1
+634,63,Femenino,Valparaiso,Urbana,Media,Estatal,Mantenerse,1
+635,53,Masculino,Maule,Urbana,Media,AFP,Mantenerse,2
+636,45,Femenino,Ñuble,Rural,Alta,AFP,Mantenerse,2
+637,26,Femenino,Coquimbo,Urbana,Baja,Estatal,Eliminarse,1
+638,80,Femenino,Bío Bio,Urbana,Muy Alta,Estatal,Modificarse,1
+639,44,Masculino,Coquimbo,Urbana,Media,AFP,Mantenerse,2
+640,55,Femenino,Los rios,Urbana,Media,AFP,Modificarse,2
+641,48,Femenino,OHiggins,Urbana,Alta,Estatal,Eliminarse,1
+642,31,Masculino,Los rios,Rural,Media,Mixto,Eliminarse,1
+643,29,Femenino,Magallanes,Urbana,Media,Mixto,Eliminarse,1
+644,47,Masculino,Araucania,Urbana,Baja,Mixto,Mantenerse,2
+645,36,Masculino,Atacama,Urbana,Alta,Estatal,Eliminarse,1
+646,28,Masculino,Coquimbo,Urbana,Alta,Estatal,Eliminarse,1
+647,21,Masculino,Ñuble,Rural,Baja,Mixto,Modificarse,2
+648,28,Masculino,Maule,Urbana,Media,Mixto,Mantenerse,2
+649,32,Masculino,Valparaiso,Urbana,Baja,Estatal,Modificarse,1
+650,19,Masculino,Coquimbo,Urbana,Alta,Estatal,Modificarse,1
+651,19,Masculino,Los rios,Urbana,Alta,Estatal,Eliminarse,1
+652,20,Femenino,Bío Bio,Urbana,Muy Alta,Estatal,Modificarse,1
+653,33,Masculino,Los rios,Rural,Alta,AFP,Modificarse,2
+654,60,Masculino,Aysen,Urbana,Media,Mixto,Mantenerse,2
+655,40,Masculino,Arica,Urbana,Muy Alta,Estatal,Eliminarse,1
+656,19,Femenino,Atacama,Urbana,Muy Alta,Mixto,Mantenerse,2
+657,23,Femenino,Araucania,Urbana,Baja,AFP,Modificarse,2
+658,74,Femenino,Atacama,Urbana,Muy Alta,Mixto,Eliminarse,1
+659,64,Masculino,Los Lagos,Rural,Media,Mixto,Mantenerse,2
+660,47,Masculino,Tarapaca,Urbana,Ninguna,AFP,Mantenerse,2
+661,50,Masculino,Aysen,Urbana,Ninguna,AFP,Modificarse,2
+662,33,Masculino,Araucania,Urbana,Media,AFP,Modificarse,2
+663,25,No Binario,Aysen,Urbana,Media,Estatal,Modificarse,1
+664,25,Masculino,OHiggins,Urbana,Alta,Mixto,Modificarse,1
+665,35,Femenino,OHiggins,Urbana,Muy Alta,Mixto,Mantenerse,2
+666,45,Femenino,Coquimbo,Urbana,Muy Alta,Estatal,Modificarse,1
+667,50,Masculino,OHiggins,Urbana,Baja,Estatal,Modificarse,1
+668,73,Femenino,Los rios,Urbana,Media,Estatal,Modificarse,1
+669,36,Masculino,Araucania,Rural,Alta,Mixto,Modificarse,2
+670,55,Masculino,Los rios,Urbana,Baja,Mixto,Mantenerse,1
+671,73,Masculino,OHiggins,Urbana,Baja,Mixto,Mantenerse,1
+672,63,Femenino,Los Lagos,Rural,Alta,Estatal,Modificarse,1
+673,70,Femenino,Araucania,Rural,Ninguna,Estatal,Mantenerse,2
+674,19,No Binario,Ñuble,Urbana,Alta,Estatal,Modificarse,1
+675,31,Masculino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse,1
+676,20,Femenino,Maule,Urbana,Alta,Estatal,Eliminarse,1
+677,30,Masculino,Valparaiso,Urbana,Alta,Estatal,Eliminarse,1
+678,28,Masculino,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse,1
+679,78,Femenino,Los rios,Rural,Baja,Mixto,Mantenerse,1
+680,47,Masculino,Ñuble,Urbana,Muy Alta,Mixto,Modificarse,1
+681,53,Masculino,Araucania,Urbana,Ninguna,Mixto,Mantenerse,2
+682,28,No Binario,Araucania,Urbana,Media,Estatal,Eliminarse,1
+683,32,No Binario,OHiggins,Urbana,Alta,Mixto,Modificarse,1
+684,20,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse,1
+685,25,Masculino,Tarapaca,Urbana,Baja,Mixto,Mantenerse,2
+686,52,Femenino,Arica,Urbana,Baja,Estatal,Mantenerse,2
+687,71,Masculino,Aysen,Urbana,Media,Mixto,Modificarse,1
+688,62,Femenino,Ñuble,Urbana,Baja,AFP,Mantenerse,2
+689,35,Femenino,Metropolitana,Rural,Muy Alta,Estatal,Eliminarse,1
+690,23,Femenino,Maule,Urbana,Alta,Mixto,Modificarse,1
+691,80,Masculino,Ñuble,Urbana,Baja,Mixto,Mantenerse,2
+692,35,Femenino,Valparaiso,Urbana,Media,Mixto,Eliminarse,1
+693,36,Masculino,Antofagasta,Urbana,Alta,Estatal,Modificarse,1
+694,33,Masculino,Aysen,Urbana,Alta,AFP,Modificarse,2
+695,46,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Mantenerse,1
+696,41,Masculino,Coquimbo,Urbana,Media,Mixto,Mantenerse,2
+697,24,Femenino,Los Lagos,Urbana,Media,Mixto,Modificarse,2
+698,28,Femenino,Bío Bio,Urbana,Muy Alta,Mixto,Eliminarse,1
+699,25,Femenino,Maule,Rural,Media,AFP,Mantenerse,2
+700,20,No Binario,Coquimbo,Urbana,Alta,Mixto,Eliminarse,1
+701,31,Femenino,Tarapaca,Urbana,Muy Alta,AFP,Modificarse,2
+702,25,Masculino,Maule,Urbana,Alta,Estatal,Eliminarse,1
+703,35,Masculino,Atacama,Rural,Alta,Mixto,Modificarse,1
+704,61,Femenino,OHiggins,Rural,Baja,AFP,Modificarse,2
+705,30,Masculino,Maule,Rural,Alta,AFP,Mantenerse,2
+706,43,Femenino,Arica,Urbana,Baja,Mixto,Modificarse,2
+707,25,Masculino,Arica,Rural,Alta,Estatal,Eliminarse,1
+708,29,Femenino,Tarapaca,Urbana,Media,Mixto,Modificarse,2
+709,55,Masculino,Los rios,Urbana,Baja,Mixto,Mantenerse,2
+710,62,Masculino,Los rios,Urbana,Media,AFP,Mantenerse,2
+711,21,Femenino,Maule,Urbana,Muy Alta,Mixto,Eliminarse,1
+712,50,Femenino,Antofagasta,Urbana,Alta,Mixto,Mantenerse,2
+713,53,Femenino,Valparaiso,Rural,Ninguna,Mixto,Mantenerse,2
+714,43,Masculino,Los rios,Urbana,Media,AFP,Modificarse,2
+715,35,Femenino,Magallanes,Urbana,Muy Alta,AFP,Mantenerse,2
+716,78,Femenino,Bío Bio,Urbana,Alta,Estatal,Mantenerse,1
+717,33,Femenino,Antofagasta,Urbana,Alta,Mixto,Eliminarse,1
+718,26,Masculino,Metropolitana,Urbana,Media,AFP,Modificarse,2
+719,18,Masculino,Atacama,Urbana,Muy Alta,Mixto,Eliminarse,1
+720,36,Femenino,Bío Bio,Urbana,Alta,AFP,Mantenerse,2
+721,21,No Binario,Coquimbo,Urbana,Alta,Estatal,Modificarse,1
+722,20,Femenino,Tarapaca,Rural,Muy Alta,Mixto,Eliminarse,1
+723,44,Masculino,Tarapaca,Urbana,Media,AFP,Modificarse,2
+724,18,Femenino,Valparaiso,Urbana,Muy Alta,Estatal,Modificarse,1
+725,51,Masculino,Maule,Rural,Media,AFP,Mantenerse,2
+726,55,Masculino,Metropolitana,Urbana,Media,Mixto,Mantenerse,2
+727,55,Femenino,Maule,Urbana,Ninguna,Mixto,Mantenerse,2
+728,43,No Binario,Los Lagos,Urbana,Alta,Estatal,Modificarse,1
+729,20,Masculino,Ñuble,Rural,Media,AFP,Mantenerse,2
+730,21,Masculino,Ñuble,Urbana,Media,AFP,Modificarse,2
+731,19,Masculino,Atacama,Urbana,Alta,Mixto,Mantenerse,2
+732,52,Masculino,Bío Bio,Rural,Media,Estatal,Mantenerse,2
+733,62,Femenino,Los rios,Urbana,Media,Estatal,Modificarse,1
+734,48,Femenino,Magallanes,Urbana,Muy Alta,Mixto,Eliminarse,1
+735,28,Femenino,Valparaiso,Urbana,Alta,Mixto,Modificarse,1
+736,36,Masculino,Maule,Rural,Media,Mixto,Mantenerse,2
+737,33,Femenino,Metropolitana,Urbana,Alta,Mixto,Eliminarse,1
+738,42,Femenino,Valparaiso,Urbana,Alta,Estatal,Eliminarse,1
+739,48,Femenino,Ñuble,Rural,Media,Estatal,Mantenerse,1
+740,32,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Mantenerse,2
+741,18,Femenino,Araucania,Urbana,Alta,Mixto,Modificarse,1
+742,36,Masculino,Valparaiso,Urbana,Alta,Estatal,Modificarse,1
+743,33,Femenino,Magallanes,Urbana,Muy Alta,Estatal,Eliminarse,1
+744,18,Femenino,Los rios,Urbana,Alta,Estatal,Eliminarse,1
+745,74,Femenino,Aysen,Rural,Media,AFP,Mantenerse,2
+746,24,Masculino,Magallanes,Urbana,Alta,AFP,Modificarse,2
+747,19,Femenino,Valparaiso,Urbana,Muy Alta,Estatal,Eliminarse,1
+748,35,Femenino,Araucania,Rural,Alta,Estatal,Eliminarse,1
+749,24,Femenino,Atacama,Urbana,Muy Alta,Mixto,Eliminarse,1
+750,30,Masculino,Ñuble,Urbana,Alta,Estatal,Eliminarse,1
+751,35,Masculino,Araucania,Urbana,Alta,Estatal,Eliminarse,1
+752,39,Masculino,Tarapaca,Urbana,Media,AFP,Mantenerse,2
+753,50,Femenino,Aysen,Urbana,Alta,Estatal,Eliminarse,1
+754,46,Femenino,Araucania,Urbana,Media,Mixto,Mantenerse,2
+755,35,Femenino,Los Lagos,Rural,Alta,Mixto,Mantenerse,2
+756,45,Masculino,Araucania,Urbana,Ninguna,AFP,Mantenerse,2
+757,41,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse,2
+758,61,Masculino,Atacama,Urbana,Media,Mixto,Mantenerse,2
+759,35,Masculino,Arica,Urbana,Media,Mixto,Modificarse,2
+760,35,Femenino,Coquimbo,Urbana,Alta,Mixto,Eliminarse,1
+761,30,Masculino,Aysen,Urbana,Muy Alta,Mixto,Eliminarse,1
+762,34,No Binario,Ñuble,Urbana,Alta,Mixto,Eliminarse,1
+763,55,Femenino,Los Lagos,Urbana,Ninguna,AFP,Mantenerse,2
+764,28,No Binario,Maule,Urbana,Alta,Estatal,Modificarse,1
+765,56,Femenino,Maule,Rural,Media,Estatal,Modificarse,1
+766,38,Femenino,Bío Bio,Rural,Muy Alta,Mixto,Modificarse,1
+767,80,Femenino,Araucania,Urbana,Media,Estatal,Mantenerse,2
+768,43,Masculino,Magallanes,Urbana,Muy Alta,Mixto,Mantenerse,1
+769,25,Femenino,Metropolitana,Urbana,Alta,Estatal,Modificarse,1
+770,34,Femenino,Antofagasta,Urbana,Muy Alta,Mixto,Mantenerse,2
+771,52,Masculino,Ñuble,Rural,Baja,Mixto,Mantenerse,2
+772,28,Femenino,Maule,Rural,Alta,Estatal,Eliminarse,1
+773,43,Femenino,Araucania,Rural,Muy Alta,Estatal,Eliminarse,1
+774,36,Masculino,Los Lagos,Urbana,Alta,Estatal,Eliminarse,1
+775,19,No Binario,Bío Bio,Urbana,Alta,Estatal,Modificarse,1
+776,25,Masculino,Magallanes,Urbana,Muy Alta,Mixto,Modificarse,1
+777,19,Masculino,Araucania,Rural,Muy Alta,Estatal,Eliminarse,1
+778,18,Femenino,Bío Bio,Urbana,Muy Alta,Mixto,Eliminarse,1
+779,28,Masculino,Valparaiso,Urbana,Alta,Estatal,Eliminarse,1
+780,20,Masculino,Bío Bio,Rural,Media,Mixto,Modificarse,2
+781,47,Femenino,OHiggins,Urbana,Alta,Mixto,Mantenerse,2
+782,26,No Binario,Arica,Urbana,Muy Alta,Estatal,Modificarse,1
+783,55,Femenino,Atacama,Urbana,Baja,Estatal,Modificarse,2
+784,39,Femenino,Arica,Urbana,Alta,Mixto,Mantenerse,2
+785,44,Masculino,Tarapaca,Urbana,Media,AFP,Modificarse,2
+786,52,Femenino,Maule,Rural,Baja,Mixto,Mantenerse,2
+787,19,Masculino,Los Lagos,Urbana,Muy Alta,Estatal,Modificarse,1
+788,31,Femenino,Maule,Urbana,Alta,Mixto,Eliminarse,1
+789,45,Masculino,Bío Bio,Urbana,Alta,Mixto,Mantenerse,2
+790,36,No Binario,Los rios,Urbana,Muy Alta,Estatal,Eliminarse,1
+791,35,Masculino,OHiggins,Urbana,Media,Mixto,Modificarse,2
+792,55,Femenino,Coquimbo,Urbana,Media,Estatal,Modificarse,1
+793,36,Masculino,Aysen,Urbana,Media,Estatal,Modificarse,1
+794,40,Masculino,Atacama,Urbana,Media,Mixto,Mantenerse,2
+795,23,Femenino,Metropolitana,Urbana,Alta,Mixto,Eliminarse,1
+796,53,Masculino,Bío Bio,Urbana,Alta,Estatal,Modificarse,1
+797,32,Femenino,Aysen,Urbana,Muy Alta,Estatal,Modificarse,1
+798,39,Femenino,Ñuble,Urbana,Muy Alta,Estatal,Eliminarse,1
+799,28,Masculino,Atacama,Urbana,Alta,Mixto,Modificarse,2
+800,52,Femenino,Araucania,Urbana,Media,Estatal,Eliminarse,1
+801,26,Masculino,Arica,Urbana,Muy Alta,Mixto,Eliminarse,1
+802,56,Masculino,Valparaiso,Urbana,Baja,Mixto,Mantenerse,2
+803,24,Femenino,Valparaiso,Urbana,Media,Mixto,Modificarse,2
+804,44,Femenino,Los Lagos,Urbana,Alta,AFP,Modificarse,2
+805,51,Masculino,Magallanes,Urbana,Baja,AFP,Mantenerse,2
+806,53,Masculino,Los rios,Urbana,Media,AFP,Mantenerse,2
+807,64,Femenino,Los Lagos,Urbana,Media,Estatal,Modificarse,1
+808,19,No Binario,Tarapaca,Urbana,Alta,Estatal,Eliminarse,1
+809,35,Femenino,Araucania,Rural,Media,Estatal,Eliminarse,1
+810,39,Masculino,Ñuble,Urbana,Alta,Mixto,Modificarse,1
+811,34,Masculino,Los Lagos,Urbana,Alta,AFP,Mantenerse,2
+812,19,Masculino,Valparaiso,Urbana,Media,Mixto,Modificarse,1
+813,48,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse,1
+814,21,Femenino,Aysen,Urbana,Baja,Mixto,Eliminarse,1
+815,25,No Binario,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse,1
+816,30,Femenino,Los Lagos,Urbana,Baja,AFP,Mantenerse,2
+817,20,Femenino,Atacama,Urbana,Baja,Mixto,Modificarse,2
+818,39,Femenino,Bío Bio,Urbana,Alta,Estatal,Eliminarse,1
+819,39,Masculino,Los Lagos,Urbana,Media,AFP,Modificarse,2
+820,22,Femenino,Ñuble,Rural,Muy Alta,Estatal,Modificarse,1
+821,29,Masculino,Los rios,Rural,Media,Mixto,Modificarse,2
+822,49,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse,1
+823,39,Masculino,Aysen,Urbana,Media,AFP,Modificarse,2
+824,35,Femenino,Bío Bio,Urbana,Media,AFP,Mantenerse,2
+825,24,Femenino,Valparaiso,Urbana,Alta,Mixto,Modificarse,1
+826,25,Femenino,Coquimbo,Rural,Baja,Mixto,Eliminarse,1
+827,44,Masculino,Bío Bio,Urbana,Media,AFP,Mantenerse,2
+828,69,Femenino,OHiggins,Rural,Alta,Estatal,Mantenerse,1
+829,74,Masculino,Atacama,Urbana,Media,Mixto,Mantenerse,2
+830,20,No Binario,Araucania,Urbana,Media,Mixto,Modificarse,1
+831,19,Femenino,Antofagasta,Urbana,Alta,Mixto,Mantenerse,2
+832,61,Masculino,Magallanes,Urbana,Baja,Mixto,Mantenerse,2
+833,22,Masculino,Los Lagos,Urbana,Muy Alta,AFP,Mantenerse,2
+834,25,Femenino,Los rios,Rural,Baja,Mixto,Modificarse,1
+835,74,Femenino,Aysen,Urbana,Muy Alta,Estatal,Modificarse,1
+836,63,Femenino,Los Lagos,Urbana,Ninguna,AFP,Mantenerse,2
+837,20,Femenino,Maule,Urbana,Alta,Mixto,Eliminarse,1
+838,56,Masculino,Magallanes,Urbana,Baja,Mixto,Mantenerse,2
+839,40,Masculino,Valparaiso,Urbana,Baja,Estatal,Eliminarse,1
+840,37,Femenino,Magallanes,Rural,Alta,Estatal,Modificarse,1
+841,45,Femenino,Tarapaca,Urbana,Muy Alta,Estatal,Modificarse,1
+842,25,Femenino,Magallanes,Urbana,Alta,Mixto,Eliminarse,1
+843,39,Femenino,Metropolitana,Urbana,Media,Estatal,Eliminarse,1
+844,36,Masculino,Aysen,Urbana,Baja,AFP,Mantenerse,2
+845,23,Femenino,OHiggins,Urbana,Alta,AFP,Mantenerse,2
+846,18,Femenino,Tarapaca,Urbana,Media,Estatal,Eliminarse,1
+847,48,Femenino,Magallanes,Urbana,Muy Alta,Estatal,Modificarse,1
+848,23,Femenino,Coquimbo,Urbana,Muy Alta,Mixto,Eliminarse,1
+849,22,Masculino,Valparaiso,Urbana,Media,Mixto,Mantenerse,2
+850,34,No Binario,Maule,Urbana,Alta,Estatal,Modificarse,1
+851,51,Masculino,Metropolitana,Urbana,Baja,Mixto,Modificarse,1
+852,27,Femenino,Coquimbo,Urbana,Media,Mixto,Modificarse,2
+853,27,No Binario,OHiggins,Urbana,Media,Estatal,Eliminarse,1
+854,41,No Binario,Atacama,Urbana,Muy Alta,Mixto,Eliminarse,1
+855,27,Femenino,Los rios,Urbana,Media,AFP,Mantenerse,2
+856,55,Masculino,Aysen,Urbana,Media,Estatal,Eliminarse,1
+857,38,Femenino,Magallanes,Urbana,Muy Alta,Mixto,Eliminarse,1
+858,24,Masculino,OHiggins,Urbana,Alta,Estatal,Eliminarse,1
+859,27,Femenino,Los Lagos,Urbana,Muy Alta,Estatal,Eliminarse,1
+860,31,Masculino,Los rios,Rural,Alta,Estatal,Eliminarse,1
+861,27,Masculino,OHiggins,Rural,Media,Mixto,Eliminarse,1
+862,33,Femenino,Bío Bio,Urbana,Muy Alta,Estatal,Eliminarse,1
+863,55,Masculino,Atacama,Urbana,Ninguna,Mixto,Mantenerse,2
+864,56,Femenino,Arica,Rural,Ninguna,AFP,Mantenerse,2
+865,18,Femenino,Ñuble,Urbana,Alta,Mixto,Eliminarse,1
+866,35,Femenino,Aysen,Rural,Muy Alta,Estatal,Eliminarse,1
+867,28,Femenino,Maule,Urbana,Alta,Mixto,Eliminarse,1
+868,77,Femenino,Tarapaca,Urbana,Baja,Estatal,Modificarse,1
+869,39,Femenino,Araucania,Urbana,Baja,Mixto,Mantenerse,2
+870,25,No Binario,OHiggins,Urbana,Alta,Mixto,Modificarse,1
+871,33,Femenino,Coquimbo,Rural,Alta,Estatal,Eliminarse,1
+872,18,Femenino,Bío Bio,Urbana,Muy Alta,Estatal,Eliminarse,1
+873,39,Masculino,Tarapaca,Urbana,Ninguna,AFP,Mantenerse,2
+874,33,Femenino,OHiggins,Urbana,Alta,Estatal,Eliminarse,1
+875,24,Masculino,Valparaiso,Urbana,Baja,Estatal,Eliminarse,1
+876,38,Femenino,Ñuble,Urbana,Alta,Mixto,Modificarse,2
+877,18,Masculino,Los Lagos,Rural,Media,AFP,Mantenerse,2
+878,26,Femenino,Antofagasta,Urbana,Baja,Estatal,Modificarse,1
+879,45,Masculino,Los Lagos,Rural,Media,AFP,Modificarse,2
+880,43,Masculino,Arica,Urbana,Alta,Estatal,Eliminarse,1
+881,22,Femenino,Tarapaca,Urbana,Alta,AFP,Modificarse,2
+882,45,Masculino,Los rios,Rural,Media,Mixto,Modificarse,2
+883,49,Masculino,Coquimbo,Urbana,Alta,Estatal,Mantenerse,1
+884,21,Femenino,Araucania,Rural,Baja,Estatal,Modificarse,1
+885,34,No Binario,Los Lagos,Urbana,Alta,Mixto,Modificarse,1
+886,54,Masculino,Araucania,Urbana,Baja,Mixto,Mantenerse,2
+887,60,Masculino,Atacama,Urbana,Media,Estatal,Eliminarse,1
+888,23,Masculino,Bío Bio,Urbana,Media,Estatal,Eliminarse,1
+889,20,No Binario,Los rios,Urbana,Media,Mixto,Modificarse,1
+890,32,Femenino,Araucania,Urbana,Alta,Estatal,Eliminarse,1
+891,50,Masculino,Atacama,Urbana,Baja,AFP,Mantenerse,2
+892,27,Masculino,Atacama,Urbana,Muy Alta,Estatal,Modificarse,1
+893,21,Femenino,Aysen,Urbana,Media,Estatal,Eliminarse,1
+894,20,No Binario,Aysen,Urbana,Media,Estatal,Modificarse,1
+895,18,Masculino,Bío Bio,Urbana,Muy Alta,AFP,Mantenerse,2
+896,18,Masculino,Maule,Urbana,Muy Alta,Mixto,Eliminarse,1
+897,74,Femenino,OHiggins,Urbana,Alta,Mixto,Mantenerse,2
+898,33,Masculino,Valparaiso,Rural,Muy Alta,Estatal,Eliminarse,1
+899,24,Femenino,Tarapaca,Urbana,Alta,Estatal,Eliminarse,1
+900,59,Masculino,Araucania,Urbana,Media,AFP,Mantenerse,2
+901,47,Femenino,Tarapaca,Rural,Alta,Mixto,Mantenerse,2
+902,41,Femenino,Atacama,Urbana,Muy Alta,Estatal,Eliminarse,1
+903,25,Femenino,OHiggins,Urbana,Muy Alta,Mixto,Eliminarse,1
+904,25,No Binario,Maule,Urbana,Alta,Estatal,Modificarse,1
+905,23,Femenino,Tarapaca,Urbana,Alta,Mixto,Mantenerse,2
+906,19,No Binario,OHiggins,Urbana,Media,Estatal,Eliminarse,1
+907,19,Femenino,Antofagasta,Urbana,Alta,AFP,Modificarse,2
+908,57,Femenino,Los Lagos,Urbana,Media,Mixto,Mantenerse,2
+909,37,Masculino,Valparaiso,Urbana,Baja,AFP,Mantenerse,2
+910,44,Masculino,Aysen,Urbana,Ninguna,AFP,Modificarse,2
+911,38,Masculino,Aysen,Urbana,Media,Mixto,Mantenerse,2
+912,45,Masculino,Metropolitana,Urbana,Baja,AFP,Mantenerse,2
+913,43,Masculino,Los rios,Rural,Media,AFP,Mantenerse,2
+914,53,Femenino,Los Lagos,Urbana,Media,Mixto,Mantenerse,2
+915,53,Masculino,Ñuble,Urbana,Baja,Estatal,Mantenerse,2
+916,55,Masculino,Ñuble,Rural,Baja,Mixto,Mantenerse,2
+917,25,Masculino,Coquimbo,Urbana,Alta,Estatal,Eliminarse,1
+918,22,Femenino,Los rios,Urbana,Muy Alta,Mixto,Modificarse,2
+919,34,Femenino,Tarapaca,Rural,Muy Alta,Mixto,Mantenerse,2
+920,41,Femenino,Tarapaca,Urbana,Alta,AFP,Modificarse,2
+921,18,Masculino,Los rios,Urbana,Baja,AFP,Modificarse,2
+922,22,Femenino,Ñuble,Urbana,Media,Estatal,Eliminarse,1
+923,39,Femenino,Magallanes,Urbana,Baja,Mixto,Mantenerse,2
+924,21,Femenino,Los Lagos,Urbana,Muy Alta,Mixto,Eliminarse,1
+925,24,Femenino,Ñuble,Urbana,Alta,Mixto,Eliminarse,1
+926,20,Femenino,OHiggins,Urbana,Alta,Mixto,Modificarse,2
+927,46,Masculino,Arica,Urbana,Muy Alta,Estatal,Mantenerse,1
+928,42,Femenino,Metropolitana,Urbana,Alta,Mixto,Eliminarse,1
+929,34,Masculino,OHiggins,Urbana,Alta,Estatal,Modificarse,1
+930,30,Masculino,Antofagasta,Urbana,Muy Alta,Mixto,Eliminarse,1
+931,23,Femenino,Metropolitana,Urbana,Alta,Mixto,Modificarse,2
+932,44,Masculino,Metropolitana,Urbana,Media,AFP,Modificarse,2
+933,36,Femenino,Tarapaca,Urbana,Baja,Mixto,Modificarse,2
+934,25,No Binario,Bío Bio,Urbana,Alta,Mixto,Modificarse,1
+935,23,Masculino,Antofagasta,Urbana,Muy Alta,AFP,Mantenerse,2
+936,30,No Binario,OHiggins,Urbana,Media,Estatal,Eliminarse,1
+937,66,Femenino,Valparaiso,Rural,Ninguna,Mixto,Mantenerse,2
+938,76,Masculino,Araucania,Urbana,Media,Estatal,Mantenerse,2
+939,24,Femenino,Maule,Rural,Muy Alta,AFP,Modificarse,2
+940,43,Masculino,Tarapaca,Urbana,Alta,Estatal,Eliminarse,1
+941,46,Femenino,Magallanes,Urbana,Media,Mixto,Modificarse,2
+942,48,Masculino,Antofagasta,Urbana,Baja,Estatal,Eliminarse,1
+943,36,Masculino,Los rios,Urbana,Muy Alta,Estatal,Eliminarse,1
+944,22,Femenino,Magallanes,Urbana,Muy Alta,Mixto,Eliminarse,1
+945,52,Masculino,Coquimbo,Rural,Ninguna,Estatal,Mantenerse,2
+946,39,Masculino,Los rios,Urbana,Ninguna,Mixto,Modificarse,2
+947,19,No Binario,Araucania,Urbana,Muy Alta,Mixto,Modificarse,1
+948,65,Masculino,Los Lagos,Rural,Ninguna,Mixto,Mantenerse,2
+949,32,No Binario,Araucania,Urbana,Muy Alta,Mixto,Eliminarse,1
+950,27,Masculino,Araucania,Urbana,Alta,AFP,Modificarse,2
+951,31,Femenino,Los Lagos,Urbana,Media,AFP,Mantenerse,2
+952,21,Masculino,Aysen,Urbana,Media,Mixto,Mantenerse,2
+953,23,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse,1
+954,18,Femenino,Ñuble,Urbana,Muy Alta,Estatal,Eliminarse,1
+955,32,Masculino,Araucania,Urbana,Muy Alta,AFP,Modificarse,2
+956,43,Femenino,Ñuble,Urbana,Alta,Estatal,Modificarse,1
+957,23,Femenino,Maule,Urbana,Muy Alta,Mixto,Modificarse,1
+958,52,Masculino,Antofagasta,Urbana,Baja,Estatal,Modificarse,1
+959,25,Masculino,Bío Bio,Urbana,Baja,Mixto,Modificarse,1
+960,22,No Binario,Atacama,Urbana,Muy Alta,Estatal,Eliminarse,1
+961,25,No Binario,OHiggins,Urbana,Muy Alta,Mixto,Eliminarse,1
+962,49,Femenino,Maule,Urbana,Muy Alta,Mixto,Mantenerse,1
+963,19,Femenino,Maule,Urbana,Muy Alta,Estatal,Eliminarse,1
+964,18,Masculino,Tarapaca,Urbana,Muy Alta,Estatal,Modificarse,1
+965,24,Femenino,Los rios,Urbana,Media,Estatal,Eliminarse,1
+966,23,No Binario,Coquimbo,Urbana,Muy Alta,Mixto,Eliminarse,1
+967,25,Femenino,Bío Bio,Urbana,Alta,AFP,Modificarse,2
+968,20,Femenino,Metropolitana,Urbana,Alta,Mixto,Modificarse,2
+969,18,Femenino,Metropolitana,Urbana,Alta,Mixto,Eliminarse,1
+970,25,Masculino,OHiggins,Urbana,Alta,Mixto,Modificarse,1
+971,42,Masculino,Magallanes,Urbana,Muy Alta,Mixto,Eliminarse,1
+972,31,Masculino,Coquimbo,Urbana,Alta,Estatal,Modificarse,1
+973,54,Masculino,OHiggins,Rural,Media,Mixto,Mantenerse,2
+974,44,Femenino,OHiggins,Urbana,Muy Alta,Estatal,Eliminarse,1
+975,24,Femenino,Aysen,Urbana,Alta,Estatal,Modificarse,1
+976,33,Masculino,Los Lagos,Rural,Muy Alta,Estatal,Modificarse,1
+977,31,No Binario,Arica,Urbana,Media,Estatal,Eliminarse,1
+978,46,Femenino,Antofagasta,Urbana,Muy Alta,Mixto,Eliminarse,1
+979,30,Femenino,Coquimbo,Rural,Muy Alta,Mixto,Modificarse,1
+980,30,Masculino,Maule,Urbana,Alta,Mixto,Modificarse,2
+981,54,Masculino,Los Lagos,Urbana,Ninguna,Mixto,Mantenerse,2
+982,43,Masculino,Aysen,Rural,Muy Alta,Estatal,Modificarse,1
+983,51,Femenino,OHiggins,Rural,Alta,Mixto,Modificarse,2
+984,54,Masculino,Araucania,Urbana,Baja,Mixto,Mantenerse,2
+985,24,Femenino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse,1
+986,43,Femenino,Magallanes,Urbana,Muy Alta,Estatal,Mantenerse,1
+987,54,Femenino,Los rios,Urbana,Media,Estatal,Mantenerse,2
+988,53,No Binario,OHiggins,Urbana,Muy Alta,Estatal,Modificarse,1
+989,24,Masculino,Coquimbo,Urbana,Muy Alta,Estatal,Eliminarse,1
+990,21,Femenino,Maule,Rural,Alta,Estatal,Eliminarse,1
+991,23,Masculino,Magallanes,Urbana,Media,Mixto,Eliminarse,1
+992,38,Masculino,Valparaiso,Urbana,Alta,Mixto,Eliminarse,1
+993,32,Masculino,Araucania,Urbana,Media,Mixto,Mantenerse,2
+994,50,Femenino,OHiggins,Urbana,Muy Alta,Estatal,Eliminarse,1
+995,63,Femenino,Los Lagos,Rural,Alta,Estatal,Mantenerse,2
+996,50,Masculino,Los Lagos,Urbana,Baja,Mixto,Eliminarse,1
+997,43,Masculino,Ñuble,Urbana,Media,Estatal,Modificarse,1
+998,35,Masculino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse,1
+999,60,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Mantenerse,1
+1000,19,Femenino,Aysen,Rural,Muy Alta,Estatal,Eliminarse,1
+1001,30,Masculino,OHiggins,Urbana,Media,Mixto,Mantenerse,2
+1002,19,Masculino,Los Lagos,Rural,Baja,Estatal,Modificarse,1
+1003,22,No Binario,OHiggins,Urbana,Alta,Mixto,Modificarse,1
+1004,43,Masculino,Maule,Rural,Muy Alta,Estatal,Mantenerse,1
+1005,37,No Binario,Coquimbo,Urbana,Muy Alta,Estatal,Modificarse,1
+1006,42,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse,1
+1007,22,No Binario,Valparaiso,Urbana,Media,Mixto,Eliminarse,1
+1008,32,Masculino,Coquimbo,Urbana,Media,Mixto,Mantenerse,2
+1009,26,Masculino,Bío Bio,Rural,Baja,Mixto,Modificarse,1
+1010,22,Masculino,Araucania,Urbana,Alta,Mixto,Modificarse,2
+1011,30,Femenino,Bío Bio,Rural,Muy Alta,AFP,Modificarse,2
+1012,27,Masculino,Los Lagos,Rural,Alta,Mixto,Mantenerse,2
+1013,56,Femenino,Magallanes,Urbana,Baja,Mixto,Mantenerse,2
+1014,38,Masculino,Bío Bio,Rural,Media,AFP,Modificarse,2
+1015,66,Femenino,Aysen,Urbana,Media,Estatal,Mantenerse,1
+1016,25,No Binario,Maule,Urbana,Media,Mixto,Eliminarse,1
+1017,55,Femenino,Coquimbo,Urbana,Muy Alta,Mixto,Eliminarse,1
+1018,23,Femenino,Ñuble,Rural,Muy Alta,Mixto,Mantenerse,2
+1019,52,Masculino,Tarapaca,Urbana,Baja,Mixto,Mantenerse,2
+1020,70,Masculino,Antofagasta,Urbana,Media,Mixto,Mantenerse,2
+1021,25,Masculino,Tarapaca,Urbana,Media,AFP,Mantenerse,2
+1022,20,Masculino,Tarapaca,Urbana,Baja,Mixto,Mantenerse,2
+1023,18,No Binario,Metropolitana,Urbana,Alta,Mixto,Modificarse,1
+1024,41,Femenino,Arica,Urbana,Alta,Estatal,Mantenerse,1
+1025,70,Masculino,Bío Bio,Urbana,Ninguna,Mixto,Mantenerse,2
+1026,20,Femenino,Metropolitana,Urbana,Media,Mixto,Modificarse,1
+1027,58,Masculino,Valparaiso,Urbana,Baja,Mixto,Mantenerse,2
+1028,54,Femenino,Maule,Urbana,Muy Alta,Estatal,Eliminarse,1
+1029,33,Femenino,Bío Bio,Urbana,Muy Alta,AFP,Modificarse,2
+1030,38,Femenino,Coquimbo,Urbana,Baja,Mixto,Modificarse,2
+1031,51,Masculino,Bío Bio,Urbana,Media,Estatal,Mantenerse,2
+1032,42,Masculino,Metropolitana,Urbana,Media,AFP,Modificarse,2
+1033,78,Masculino,Aysen,Urbana,Media,Mixto,Mantenerse,2
+1034,34,Femenino,Valparaiso,Urbana,Muy Alta,AFP,Modificarse,2
+1035,32,Femenino,Aysen,Urbana,Baja,Estatal,Eliminarse,1
+1036,50,Femenino,Magallanes,Urbana,Alta,Mixto,Modificarse,2
+1037,35,Masculino,Los rios,Urbana,Media,AFP,Mantenerse,2
+1038,28,Femenino,Arica,Rural,Muy Alta,Estatal,Eliminarse,1
+1039,71,Masculino,Metropolitana,Rural,Media,Estatal,Modificarse,1
+1040,30,Masculino,Los Lagos,Urbana,Alta,Mixto,Modificarse,2
+1041,36,Masculino,Magallanes,Urbana,Alta,Estatal,Modificarse,1
+1042,28,Femenino,Atacama,Urbana,Alta,Estatal,Modificarse,1
+1043,25,Femenino,Tarapaca,Urbana,Media,Mixto,Mantenerse,2
+1044,49,Masculino,Coquimbo,Urbana,Baja,Estatal,Modificarse,1
+1045,34,Masculino,Maule,Urbana,Baja,Estatal,Modificarse,1
+1046,41,Masculino,Magallanes,Urbana,Baja,Mixto,Modificarse,2
+1047,58,Masculino,Arica,Urbana,Ninguna,AFP,Mantenerse,2
+1048,18,Masculino,Arica,Urbana,Alta,Mixto,Modificarse,1
+1049,25,Masculino,Bío Bio,Urbana,Muy Alta,Mixto,Modificarse,2
+1050,76,Masculino,Valparaiso,Urbana,Muy Alta,Estatal,Mantenerse,1
+1051,46,Femenino,Los Lagos,Rural,Baja,Mixto,Modificarse,2
+1052,23,Femenino,Los Lagos,Urbana,Alta,Mixto,Eliminarse,1
+1053,25,Femenino,Aysen,Urbana,Muy Alta,Estatal,Eliminarse,1
+1054,40,Masculino,Valparaiso,Urbana,Muy Alta,Estatal,Eliminarse,1
+1055,35,Masculino,Arica,Urbana,Muy Alta,Estatal,Eliminarse,1
+1056,32,No Binario,Aysen,Urbana,Media,Estatal,Eliminarse,1
+1057,19,Femenino,OHiggins,Urbana,Muy Alta,Mixto,Modificarse,1
+1058,18,Masculino,Ñuble,Urbana,Alta,Estatal,Eliminarse,1
+1059,33,Masculino,Maule,Urbana,Media,AFP,Mantenerse,2
+1060,53,Femenino,Los Lagos,Urbana,Alta,Estatal,Modificarse,1
+1061,44,Femenino,Arica,Urbana,Alta,AFP,Modificarse,2
+1062,24,No Binario,Atacama,Urbana,Media,Mixto,Eliminarse,1
+1063,23,Masculino,OHiggins,Urbana,Alta,AFP,Modificarse,2
+1064,63,Masculino,Antofagasta,Urbana,Baja,Estatal,Modificarse,1
+1065,28,Femenino,Aysen,Urbana,Media,Mixto,Eliminarse,1
+1066,34,Masculino,Atacama,Urbana,Muy Alta,Estatal,Eliminarse,1
+1067,41,Femenino,Aysen,Urbana,Muy Alta,Estatal,Eliminarse,1
+1068,55,Femenino,Atacama,Urbana,Media,Estatal,Mantenerse,2
+1069,38,Masculino,Araucania,Rural,Baja,AFP,Mantenerse,2
+1070,22,Femenino,Los rios,Rural,Alta,Mixto,Eliminarse,1
+1071,54,Masculino,Atacama,Urbana,Baja,Mixto,Mantenerse,1
+1072,32,No Binario,OHiggins,Urbana,Media,Mixto,Eliminarse,1
+1073,22,Femenino,OHiggins,Rural,Muy Alta,Mixto,Mantenerse,2
+1074,60,Femenino,Bío Bio,Urbana,Alta,Estatal,Mantenerse,2
+1075,42,Masculino,Coquimbo,Urbana,Media,AFP,Mantenerse,2
+1076,19,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Modificarse,2
+1077,25,Masculino,Los rios,Urbana,Baja,Estatal,Eliminarse,1
+1078,45,Masculino,Coquimbo,Urbana,Ninguna,AFP,Mantenerse,2
+1079,29,Masculino,OHiggins,Urbana,Alta,Mixto,Mantenerse,2
+1080,47,Femenino,Aysen,Urbana,Muy Alta,Mixto,Mantenerse,1
+1081,54,Masculino,Ñuble,Urbana,Alta,Estatal,Eliminarse,1
+1082,46,Masculino,Tarapaca,Urbana,Alta,AFP,Modificarse,2
+1083,20,Femenino,Ñuble,Urbana,Muy Alta,Mixto,Modificarse,2
+1084,28,Femenino,Araucania,Rural,Muy Alta,Estatal,Eliminarse,1
+1085,22,Femenino,Ñuble,Rural,Alta,Mixto,Eliminarse,2
+1086,60,Masculino,Coquimbo,Urbana,Baja,AFP,Mantenerse,2
+1087,55,Femenino,Tarapaca,Urbana,Media,Mixto,Mantenerse,2
+1088,62,Femenino,OHiggins,Urbana,Ninguna,AFP,Mantenerse,2
+1089,31,Femenino,Coquimbo,Rural,Muy Alta,Estatal,Eliminarse,1
+1090,54,Masculino,Metropolitana,Urbana,Media,Estatal,Mantenerse,1
+1091,27,Masculino,Maule,Rural,Baja,Mixto,Eliminarse,1
+1092,47,Femenino,Arica,Urbana,Muy Alta,Mixto,Eliminarse,1
+1093,49,Masculino,Coquimbo,Urbana,Alta,Estatal,Modificarse,1
+1094,68,Femenino,Atacama,Urbana,Alta,Estatal,Mantenerse,1
+1095,23,Femenino,Maule,Urbana,Media,Estatal,Eliminarse,1
+1096,59,Masculino,Araucania,Urbana,Baja,AFP,Mantenerse,2
+1097,51,Femenino,Valparaiso,Urbana,Media,AFP,Modificarse,2
+1098,25,Femenino,Los rios,Urbana,Alta,Mixto,Modificarse,1
+1099,63,Femenino,Aysen,Urbana,Ninguna,AFP,Mantenerse,2
+1100,25,Femenino,Atacama,Urbana,Alta,Estatal,Eliminarse,1
+1101,76,Femenino,Los Lagos,Urbana,Media,Estatal,Mantenerse,2
+1102,33,No Binario,Maule,Urbana,Muy Alta,Mixto,Eliminarse,1
+1103,32,Femenino,Antofagasta,Urbana,Alta,Estatal,Eliminarse,1
+1104,40,Femenino,Arica,Urbana,Ninguna,Mixto,Mantenerse,2
+1105,27,No Binario,Antofagasta,Urbana,Media,Estatal,Eliminarse,1
+1106,33,No Binario,Atacama,Urbana,Alta,Estatal,Eliminarse,1
+1107,33,Femenino,OHiggins,Urbana,Muy Alta,Mixto,Modificarse,1
+1108,59,Masculino,Araucania,Urbana,Media,AFP,Mantenerse,2
+1109,18,Femenino,OHiggins,Urbana,Muy Alta,Estatal,Eliminarse,1
+1110,25,Femenino,Coquimbo,Urbana,Alta,Mixto,Eliminarse,1
+1111,50,Masculino,Atacama,Urbana,Media,AFP,Mantenerse,2
+1112,37,Masculino,Los rios,Rural,Baja,AFP,Modificarse,2
+1113,59,Masculino,Araucania,Urbana,Media,Estatal,Mantenerse,1
+1114,21,Masculino,Aysen,Urbana,Alta,Mixto,Mantenerse,2
+1115,59,Masculino,Bío Bio,Rural,Baja,Mixto,Mantenerse,2
+1116,20,No Binario,Coquimbo,Urbana,Alta,Mixto,Eliminarse,1
+1117,63,Masculino,Bío Bio,Urbana,Baja,Mixto,Mantenerse,2
+1118,24,Masculino,Arica,Rural,Muy Alta,Estatal,Eliminarse,1
+1119,42,Femenino,Los rios,Rural,Media,AFP,Mantenerse,2
+1120,39,Femenino,Araucania,Urbana,Baja,Mixto,Mantenerse,2
+1121,24,Masculino,Arica,Urbana,Media,Mixto,Eliminarse,1
+1122,26,Masculino,Los rios,Urbana,Muy Alta,Estatal,Modificarse,1
+1123,18,Femenino,Ñuble,Rural,Muy Alta,Mixto,Modificarse,1
+1124,32,Femenino,OHiggins,Urbana,Muy Alta,Mixto,Modificarse,1
+1125,77,Masculino,Maule,Urbana,Baja,AFP,Mantenerse,2
+1126,35,Femenino,Los Lagos,Urbana,Alta,AFP,Mantenerse,2
+1127,69,Masculino,OHiggins,Urbana,Alta,Estatal,Mantenerse,1
+1128,72,Masculino,Maule,Urbana,Baja,Mixto,Mantenerse,2
+1129,49,Masculino,Bío Bio,Rural,Muy Alta,Estatal,Mantenerse,1
+1130,32,No Binario,Coquimbo,Urbana,Muy Alta,Estatal,Eliminarse,1
+1131,19,No Binario,Bío Bio,Urbana,Media,Mixto,Modificarse,1
+1132,45,Masculino,Metropolitana,Urbana,Alta,Estatal,Modificarse,1
+1133,77,Femenino,Metropolitana,Urbana,Media,Estatal,Mantenerse,1
+1134,23,Masculino,Maule,Rural,Muy Alta,Estatal,Modificarse,1
+1135,40,Masculino,Metropolitana,Urbana,Baja,AFP,Modificarse,2
+1136,75,Femenino,Bío Bio,Urbana,Media,Estatal,Mantenerse,2
+1137,30,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse,1
+1138,49,Femenino,Magallanes,Urbana,Baja,Mixto,Eliminarse,1
+1139,25,No Binario,Arica,Urbana,Muy Alta,Estatal,Eliminarse,1
+1140,41,Femenino,Maule,Urbana,Alta,Mixto,Mantenerse,2
+1141,42,Femenino,Arica,Urbana,Media,Mixto,Eliminarse,1
+1142,56,Femenino,Bío Bio,Urbana,Baja,Estatal,Modificarse,1
+1143,29,No Binario,Valparaiso,Urbana,Media,Estatal,Modificarse,1
+1144,40,Femenino,Antofagasta,Urbana,Media,Mixto,Mantenerse,2
+1145,22,Femenino,Ñuble,Urbana,Muy Alta,Mixto,Eliminarse,1
+1146,18,Masculino,Araucania,Rural,Muy Alta,Estatal,Modificarse,1
+1147,21,Masculino,Magallanes,Urbana,Media,Mixto,Mantenerse,2
+1148,38,Femenino,Maule,Urbana,Muy Alta,Estatal,Modificarse,1
+1149,34,No Binario,Magallanes,Urbana,Media,Mixto,Modificarse,1
+1150,52,Masculino,Bío Bio,Urbana,Media,Mixto,Mantenerse,2
+1151,60,Masculino,Los Lagos,Urbana,Media,Mixto,Mantenerse,2
+1152,66,Femenino,Arica,Urbana,Media,AFP,Mantenerse,2
+1153,56,Masculino,Magallanes,Urbana,Media,Estatal,Modificarse,1
+1154,20,No Binario,Tarapaca,Urbana,Media,Estatal,Modificarse,1
+1155,45,Masculino,Ñuble,Urbana,Muy Alta,Estatal,Modificarse,1
+1156,55,Femenino,Ñuble,Rural,Baja,Estatal,Modificarse,2
+1157,59,Masculino,Metropolitana,Urbana,Media,Estatal,Mantenerse,1
+1158,33,Masculino,Los rios,Urbana,Muy Alta,AFP,Mantenerse,2
+1159,34,Femenino,Ñuble,Rural,Alta,Estatal,Eliminarse,1
+1160,28,No Binario,Araucania,Urbana,Media,Estatal,Modificarse,1
+1161,62,Masculino,Ñuble,Rural,Ninguna,Mixto,Mantenerse,2
+1162,25,Masculino,Atacama,Urbana,Muy Alta,Estatal,Eliminarse,1
+1163,66,Femenino,Tarapaca,Urbana,Media,Estatal,Eliminarse,1
+1164,51,Femenino,Arica,Urbana,Alta,Estatal,Modificarse,1
+1165,18,Masculino,OHiggins,Urbana,Muy Alta,Estatal,Eliminarse,1
+1166,25,No Binario,Bío Bio,Urbana,Alta,Estatal,Eliminarse,1
+1167,54,Masculino,Aysen,Urbana,Media,Estatal,Mantenerse,1
+1168,35,Masculino,Los rios,Rural,Media,AFP,Mantenerse,2
+1169,34,Masculino,Aysen,Urbana,Media,AFP,Mantenerse,2
+1170,38,Femenino,Arica,Urbana,Media,Mixto,Mantenerse,2
+1171,25,Masculino,Antofagasta,Urbana,Alta,Estatal,Eliminarse,1
+1172,18,Femenino,Tarapaca,Rural,Alta,Mixto,Eliminarse,1
+1173,51,Masculino,Aysen,Urbana,Muy Alta,Mixto,Mantenerse,1
+1174,32,Femenino,Coquimbo,Urbana,Muy Alta,AFP,Mantenerse,2
+1175,25,Masculino,Maule,Urbana,Media,AFP,Modificarse,2
+1176,62,Masculino,Valparaiso,Urbana,Media,Estatal,Modificarse,1
+1177,19,Femenino,Tarapaca,Urbana,Media,Mixto,Mantenerse,2
+1178,45,Masculino,Ñuble,Rural,Ninguna,AFP,Mantenerse,2
+1179,22,Masculino,Ñuble,Rural,Alta,Mixto,Modificarse,2
+1180,39,Femenino,Bío Bio,Urbana,Baja,Mixto,Mantenerse,2
+1181,41,Femenino,Bío Bio,Urbana,Baja,Mixto,Mantenerse,2
+1182,33,Masculino,Los Lagos,Urbana,Media,Mixto,Modificarse,2
+1183,28,Masculino,Arica,Urbana,Muy Alta,Mixto,Eliminarse,1
+1184,64,Masculino,Bío Bio,Urbana,Ninguna,Estatal,Mantenerse,2
+1185,48,Femenino,Arica,Urbana,Media,Mixto,Modificarse,2
+1186,41,No Binario,Ñuble,Urbana,Muy Alta,Estatal,Modificarse,1
+1187,34,Femenino,Maule,Urbana,Baja,Estatal,Eliminarse,1
+1188,50,Masculino,Ñuble,Urbana,Alta,Mixto,Mantenerse,2
+1189,53,Masculino,Antofagasta,Urbana,Baja,AFP,Mantenerse,2
+1190,42,Masculino,Coquimbo,Urbana,Muy Alta,Estatal,Modificarse,1
+1191,47,Masculino,Maule,Urbana,Baja,Mixto,Modificarse,2
+1192,48,Masculino,Bío Bio,Urbana,Baja,Estatal,Mantenerse,1
+1193,20,Masculino,Arica,Urbana,Alta,Estatal,Eliminarse,1
+1194,43,Masculino,OHiggins,Rural,Alta,Estatal,Eliminarse,1
+1195,34,Femenino,Arica,Urbana,Media,Estatal,Eliminarse,1
+1196,35,Femenino,Ñuble,Urbana,Muy Alta,Estatal,Modificarse,1
+1197,38,No Binario,Atacama,Urbana,Muy Alta,Estatal,Eliminarse,1
+1198,31,Masculino,Magallanes,Urbana,Baja,Mixto,Eliminarse,1
+1199,41,Femenino,Aysen,Urbana,Muy Alta,Estatal,Eliminarse,1
+1200,61,Masculino,Arica,Urbana,Baja,Mixto,Mantenerse,2
+1201,49,Femenino,Araucania,Rural,Media,Mixto,Modificarse,2
+1202,30,No Binario,Magallanes,Urbana,Muy Alta,Estatal,Modificarse,1
+1203,19,Masculino,Valparaiso,Urbana,Alta,Estatal,Modificarse,1
+1204,18,No Binario,Maule,Urbana,Muy Alta,Estatal,Modificarse,1
+1205,27,Masculino,OHiggins,Rural,Alta,Mixto,Eliminarse,1
+1206,32,Masculino,Bío Bio,Urbana,Alta,AFP,Mantenerse,2
+1207,74,Masculino,Atacama,Urbana,Media,Estatal,Modificarse,1
+1208,46,Femenino,Los Lagos,Rural,Alta,Estatal,Eliminarse,1
+1209,20,Masculino,Atacama,Urbana,Media,Mixto,Mantenerse,2
+1210,35,Masculino,Atacama,Urbana,Muy Alta,Mixto,Modificarse,1
+1211,33,Femenino,Bío Bio,Rural,Muy Alta,Mixto,Modificarse,1
+1212,55,Femenino,Aysen,Urbana,Media,Estatal,Modificarse,1
+1213,18,Masculino,Aysen,Urbana,Muy Alta,Estatal,Eliminarse,1
+1214,42,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse,2
+1215,19,Femenino,Atacama,Urbana,Alta,Mixto,Mantenerse,2
+1216,35,Masculino,OHiggins,Urbana,Muy Alta,Estatal,Eliminarse,1
+1217,24,Femenino,Antofagasta,Urbana,Alta,Mixto,Mantenerse,2
+1218,23,Masculino,OHiggins,Urbana,Media,Mixto,Eliminarse,1
+1219,60,Masculino,Bío Bio,Urbana,Ninguna,Mixto,Mantenerse,2
+1220,44,Masculino,Los Lagos,Urbana,Baja,AFP,Modificarse,2
+1221,54,Femenino,Antofagasta,Urbana,Media,Mixto,Mantenerse,1
+1222,50,Femenino,Arica,Urbana,Media,Estatal,Modificarse,1
+1223,32,Femenino,Maule,Rural,Alta,Estatal,Eliminarse,1
+1224,27,Femenino,Los rios,Rural,Muy Alta,Mixto,Eliminarse,1
+1225,32,Masculino,Bío Bio,Urbana,Media,Mixto,Mantenerse,2
+1226,54,Femenino,Valparaiso,Urbana,Media,Estatal,Mantenerse,2
+1227,55,Masculino,OHiggins,Urbana,Media,Estatal,Modificarse,1
+1228,70,Femenino,Tarapaca,Urbana,Media,Mixto,Modificarse,2
+1229,39,Femenino,Tarapaca,Urbana,Baja,AFP,Mantenerse,2
+1230,38,Femenino,Tarapaca,Urbana,Alta,Mixto,Mantenerse,2
+1231,23,Femenino,Coquimbo,Urbana,Muy Alta,Estatal,Eliminarse,1
+1232,55,Femenino,Antofagasta,Urbana,Muy Alta,Estatal,Eliminarse,1
+1233,21,Masculino,Maule,Rural,Alta,Mixto,Mantenerse,2
+1234,20,Masculino,Valparaiso,Urbana,Muy Alta,Mixto,Eliminarse,1
+1235,38,Femenino,Antofagasta,Urbana,Muy Alta,Estatal,Mantenerse,1
+1236,24,Masculino,OHiggins,Urbana,Muy Alta,Estatal,Eliminarse,1
+1237,29,Masculino,Arica,Urbana,Muy Alta,AFP,Mantenerse,2
+1238,43,Masculino,Antofagasta,Urbana,Media,AFP,Mantenerse,2
+1239,63,Femenino,Metropolitana,Urbana,Media,AFP,Mantenerse,2
+1240,24,Femenino,Tarapaca,Urbana,Baja,Estatal,Eliminarse,1
+1241,20,Masculino,Araucania,Urbana,Media,AFP,Mantenerse,2
+1242,49,Masculino,OHiggins,Urbana,Baja,AFP,Modificarse,2
+1243,32,Masculino,Los Lagos,Urbana,Alta,Mixto,Mantenerse,2
+1244,26,No Binario,Maule,Urbana,Alta,Estatal,Eliminarse,1
+1245,20,Masculino,Metropolitana,Urbana,Media,Estatal,Modificarse,1
+1246,34,Masculino,Los Lagos,Urbana,Media,Mixto,Mantenerse,2
+1247,40,No Binario,Los rios,Urbana,Alta,Mixto,Eliminarse,1
+1248,31,Masculino,Valparaiso,Urbana,Alta,Mixto,Modificarse,1
+1249,29,Femenino,Magallanes,Urbana,Muy Alta,Estatal,Eliminarse,1
+1250,69,Femenino,Araucania,Urbana,Media,AFP,Mantenerse,2
+1251,25,Femenino,Ñuble,Rural,Media,Mixto,Eliminarse,1
+1252,32,Masculino,Araucania,Urbana,Media,Mixto,Eliminarse,1
+1253,19,Femenino,Antofagasta,Urbana,Alta,AFP,Modificarse,2
+1254,23,Masculino,Aysen,Rural,Alta,Mixto,Eliminarse,1
+1255,41,Femenino,Aysen,Urbana,Muy Alta,Mixto,Modificarse,1
+1256,18,Masculino,Metropolitana,Urbana,Muy Alta,AFP,Modificarse,2
+1257,45,Femenino,Ñuble,Urbana,Media,Mixto,Modificarse,1
+1258,56,Femenino,Valparaiso,Urbana,Media,Mixto,Modificarse,2
+1259,33,Masculino,Valparaiso,Urbana,Alta,Estatal,Eliminarse,1
+1260,35,Femenino,Los rios,Rural,Muy Alta,Mixto,Eliminarse,1
+1261,21,Femenino,Arica,Urbana,Alta,Mixto,Modificarse,1
+1262,55,Masculino,Los rios,Urbana,Ninguna,Mixto,Mantenerse,2
+1263,55,Masculino,Magallanes,Urbana,Ninguna,Mixto,Mantenerse,2
+1264,30,Masculino,Bío Bio,Urbana,Alta,Mixto,Modificarse,2
+1265,54,Femenino,Arica,Urbana,Alta,Estatal,Mantenerse,1
+1266,35,Masculino,Bío Bio,Urbana,Media,AFP,Modificarse,2
+1267,25,Masculino,Atacama,Urbana,Muy Alta,Estatal,Modificarse,1
+1268,27,Masculino,Maule,Urbana,Alta,AFP,Mantenerse,2
+1269,28,Masculino,Los Lagos,Rural,Alta,Mixto,Eliminarse,1
+1270,37,Masculino,Arica,Urbana,Baja,AFP,Mantenerse,2
+1271,45,Masculino,Maule,Urbana,Media,AFP,Mantenerse,2
+1272,38,Masculino,Tarapaca,Urbana,Ninguna,AFP,Mantenerse,2
+1273,44,Masculino,Maule,Urbana,Alta,Mixto,Eliminarse,1
+1274,23,Femenino,Coquimbo,Urbana,Alta,Mixto,Modificarse,2
+1275,18,Masculino,Valparaiso,Urbana,Baja,Estatal,Eliminarse,1
+1276,22,Femenino,Atacama,Urbana,Muy Alta,Estatal,Eliminarse,1
+1277,38,Masculino,Arica,Urbana,Media,AFP,Mantenerse,2
+1278,22,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse,1
+1279,30,Masculino,Los Lagos,Urbana,Muy Alta,Estatal,Modificarse,1
+1280,65,Masculino,Los rios,Urbana,Ninguna,Mixto,Mantenerse,2
+1281,32,Masculino,Tarapaca,Rural,Media,Mixto,Modificarse,2
+1282,30,Femenino,Tarapaca,Rural,Alta,Estatal,Eliminarse,1
+1283,43,Masculino,Aysen,Urbana,Muy Alta,Mixto,Modificarse,1
+1284,46,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse,1
+1285,23,Femenino,Tarapaca,Urbana,Alta,AFP,Mantenerse,2
+1286,36,Masculino,Tarapaca,Urbana,Media,Mixto,Modificarse,2
+1287,24,No Binario,Antofagasta,Urbana,Alta,Mixto,Modificarse,1
+1288,35,Masculino,Bío Bio,Urbana,Media,AFP,Mantenerse,2
+1289,49,Femenino,Tarapaca,Urbana,Alta,AFP,Mantenerse,2
+1290,18,Femenino,OHiggins,Rural,Muy Alta,Estatal,Modificarse,1
+1291,19,Masculino,Metropolitana,Urbana,Alta,AFP,Modificarse,2
+1292,19,Femenino,Atacama,Urbana,Muy Alta,Estatal,Modificarse,1
+1293,27,Masculino,Antofagasta,Urbana,Alta,Mixto,Modificarse,2
+1294,44,Masculino,Los rios,Urbana,Baja,Mixto,Mantenerse,2
+1295,63,Femenino,Antofagasta,Urbana,Media,Estatal,Modificarse,1
+1296,22,Masculino,Coquimbo,Urbana,Baja,AFP,Modificarse,2
+1297,25,Masculino,Araucania,Urbana,Media,AFP,Modificarse,2
+1298,43,Masculino,Magallanes,Urbana,Media,AFP,Mantenerse,2
+1299,51,Femenino,Los Lagos,Urbana,Ninguna,AFP,Mantenerse,2
+1300,52,Masculino,Metropolitana,Urbana,Media,Estatal,Mantenerse,1
+1301,56,Masculino,Ñuble,Urbana,Media,AFP,Mantenerse,2
+1302,27,No Binario,Coquimbo,Urbana,Media,Estatal,Eliminarse,1
+1303,41,Femenino,Atacama,Urbana,Alta,Estatal,Eliminarse,1
+1304,23,Femenino,Antofagasta,Urbana,Baja,Estatal,Modificarse,1
+1305,55,Masculino,Tarapaca,Rural,Baja,AFP,Mantenerse,2
+1306,31,Femenino,Ñuble,Rural,Alta,Mixto,Modificarse,1
+1307,55,Femenino,Antofagasta,Urbana,Baja,Mixto,Mantenerse,2
+1308,25,Femenino,Bío Bio,Urbana,Muy Alta,Mixto,Modificarse,1
+1309,53,Masculino,Los rios,Urbana,Alta,Estatal,Modificarse,1
+1310,18,Femenino,Ñuble,Urbana,Muy Alta,Mixto,Eliminarse,1
+1311,46,Femenino,Ñuble,Urbana,Ninguna,Mixto,Mantenerse,2
+1312,57,Masculino,Metropolitana,Urbana,Baja,Estatal,Mantenerse,1
+1313,42,Femenino,Magallanes,Urbana,Ninguna,Mixto,Mantenerse,2
+1314,41,Masculino,Araucania,Urbana,Media,Mixto,Mantenerse,2
+1315,39,Masculino,Los rios,Urbana,Muy Alta,Mixto,Mantenerse,1
+1316,18,Femenino,Atacama,Urbana,Alta,AFP,Mantenerse,2
+1317,71,Femenino,Aysen,Urbana,Baja,Mixto,Mantenerse,2
+1318,61,Masculino,Atacama,Urbana,Baja,Mixto,Mantenerse,2
+1319,51,Masculino,Arica,Urbana,Baja,Estatal,Mantenerse,2
+1320,25,Masculino,Los Lagos,Urbana,Alta,Mixto,Modificarse,2
+1321,40,Masculino,Maule,Rural,Baja,AFP,Mantenerse,2
+1322,51,Masculino,Los Lagos,Urbana,Baja,AFP,Mantenerse,2
+1323,29,No Binario,Los rios,Urbana,Alta,Estatal,Modificarse,1
+1324,25,Masculino,Antofagasta,Urbana,Alta,Estatal,Eliminarse,1
+1325,41,Femenino,Arica,Urbana,Media,AFP,Modificarse,2
+1326,65,Masculino,OHiggins,Rural,Media,Estatal,Mantenerse,1
+1327,35,Femenino,Los Lagos,Urbana,Muy Alta,Mixto,Modificarse,2
+1328,65,Femenino,OHiggins,Urbana,Media,AFP,Mantenerse,2
+1329,20,Masculino,Valparaiso,Urbana,Muy Alta,Estatal,Eliminarse,1
+1330,28,Masculino,Coquimbo,Rural,Baja,Mixto,Modificarse,1
+1331,64,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse,2
+1332,36,Masculino,Antofagasta,Urbana,Media,AFP,Modificarse,2
+1333,28,No Binario,Bío Bio,Urbana,Alta,Estatal,Modificarse,1
+1334,31,Femenino,Maule,Urbana,Alta,Mixto,Eliminarse,1
+1335,52,Femenino,Antofagasta,Urbana,Media,Estatal,Mantenerse,1
+1336,37,Masculino,Ñuble,Urbana,Media,AFP,Modificarse,2
+1337,36,No Binario,Aysen,Urbana,Muy Alta,Estatal,Modificarse,1
+1338,35,Femenino,OHiggins,Rural,Muy Alta,AFP,Mantenerse,2
+1339,77,Femenino,Atacama,Urbana,Baja,Estatal,Mantenerse,2
+1340,73,Masculino,Antofagasta,Urbana,Media,Mixto,Modificarse,1
+1341,21,Femenino,Magallanes,Urbana,Alta,Mixto,Modificarse,1
+1342,23,No Binario,Arica,Urbana,Muy Alta,Mixto,Modificarse,1
+1343,42,No Binario,Arica,Urbana,Alta,Estatal,Eliminarse,1
+1344,35,Masculino,Arica,Urbana,Alta,AFP,Modificarse,2
+1345,44,Femenino,Tarapaca,Urbana,Media,Mixto,Mantenerse,2
+1346,19,No Binario,Los Lagos,Urbana,Alta,Mixto,Eliminarse,1
+1347,20,Femenino,Metropolitana,Urbana,Alta,Estatal,Modificarse,1
+1348,51,Femenino,Atacama,Rural,Alta,Mixto,Mantenerse,2
+1349,27,Femenino,Magallanes,Urbana,Muy Alta,Estatal,Eliminarse,1
+1350,19,Masculino,Ñuble,Urbana,Alta,Estatal,Eliminarse,1
+1351,35,Masculino,Los rios,Urbana,Alta,AFP,Mantenerse,2
+1352,36,Masculino,Arica,Urbana,Media,Mixto,Mantenerse,2
+1353,25,Masculino,Metropolitana,Urbana,Media,Mixto,Mantenerse,2
+1354,53,Femenino,Antofagasta,Urbana,Alta,Estatal,Mantenerse,2
+1355,64,Femenino,Los Lagos,Urbana,Alta,Mixto,Modificarse,2
+1356,32,Femenino,Atacama,Urbana,Muy Alta,Mixto,Modificarse,1
+1357,22,Femenino,Ñuble,Urbana,Alta,Estatal,Eliminarse,1
+1358,77,Femenino,Bío Bio,Urbana,Ninguna,Estatal,Mantenerse,2
+1359,37,Femenino,Valparaiso,Rural,Muy Alta,Estatal,Modificarse,1
+1360,38,Masculino,Los Lagos,Urbana,Ninguna,Mixto,Mantenerse,2
+1361,22,Femenino,Magallanes,Urbana,Media,Mixto,Modificarse,1
+1362,21,Femenino,Coquimbo,Urbana,Muy Alta,Estatal,Eliminarse,1
+1363,21,Femenino,Arica,Urbana,Muy Alta,AFP,Modificarse,2
+1364,62,Masculino,Magallanes,Urbana,Baja,Estatal,Mantenerse,1
+1365,47,Masculino,Araucania,Urbana,Media,Mixto,Mantenerse,2
+1366,18,Femenino,Araucania,Urbana,Alta,Mixto,Modificarse,2
+1367,78,Masculino,Ñuble,Urbana,Baja,Estatal,Modificarse,1
+1368,63,Femenino,Tarapaca,Urbana,Media,Mixto,Modificarse,2
+1369,55,Femenino,Araucania,Urbana,Media,AFP,Modificarse,2
+1370,35,Femenino,Antofagasta,Urbana,Alta,Mixto,Eliminarse,1
+1371,50,Femenino,Aysen,Urbana,Media,Mixto,Mantenerse,2
+1372,45,Femenino,OHiggins,Urbana,Muy Alta,Estatal,Modificarse,1
+1373,28,Femenino,Antofagasta,Urbana,Media,AFP,Mantenerse,2
+1374,33,Masculino,Aysen,Urbana,Alta,Estatal,Eliminarse,1
+1375,25,Femenino,Los Lagos,Rural,Muy Alta,Mixto,Eliminarse,1
+1376,37,Masculino,Los rios,Urbana,Media,AFP,Mantenerse,2
+1377,45,Femenino,Magallanes,Urbana,Baja,Estatal,Eliminarse,1
+1378,35,Femenino,Ñuble,Rural,Baja,Mixto,Eliminarse,1
+1379,20,Femenino,Ñuble,Urbana,Muy Alta,AFP,Modificarse,2
+1380,22,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse,1
+1381,55,Masculino,Aysen,Urbana,Ninguna,AFP,Mantenerse,2
+1382,58,Masculino,OHiggins,Urbana,Baja,AFP,Mantenerse,2
+1383,25,Masculino,Valparaiso,Urbana,Muy Alta,Estatal,Eliminarse,1
+1384,64,Femenino,Valparaiso,Urbana,Baja,Estatal,Mantenerse,2
+1385,31,Masculino,Antofagasta,Rural,Media,Mixto,Modificarse,2
+1386,49,Femenino,Atacama,Urbana,Media,AFP,Modificarse,2
+1387,45,Masculino,Atacama,Urbana,Media,Mixto,Mantenerse,2
+1388,25,Masculino,Los rios,Urbana,Media,AFP,Mantenerse,2
+1389,63,Femenino,Arica,Urbana,Media,Mixto,Modificarse,2
+1390,49,Masculino,Aysen,Urbana,Baja,AFP,Mantenerse,2
+1391,28,Femenino,Antofagasta,Urbana,Muy Alta,Mixto,Mantenerse,2
+1392,21,Femenino,Ñuble,Urbana,Muy Alta,AFP,Eliminarse,2
+1393,20,Masculino,Maule,Rural,Muy Alta,Estatal,Modificarse,1
+1394,21,Femenino,Los Lagos,Rural,Baja,Mixto,Mantenerse,2
+1395,21,Masculino,Maule,Rural,Media,Estatal,Eliminarse,1
+1396,20,Masculino,Tarapaca,Urbana,Alta,AFP,Mantenerse,2
+1397,25,Masculino,Tarapaca,Urbana,Media,Estatal,Modificarse,1
+1398,68,Femenino,Maule,Urbana,Media,Mixto,Eliminarse,1
+1399,26,Femenino,Araucania,Rural,Muy Alta,AFP,Mantenerse,2
+1400,21,Masculino,Atacama,Urbana,Media,Mixto,Mantenerse,2
+1401,37,Masculino,Los Lagos,Urbana,Baja,Mixto,Modificarse,2
+1402,34,No Binario,Magallanes,Urbana,Muy Alta,Estatal,Eliminarse,1
+1403,63,Femenino,Los rios,Urbana,Alta,Mixto,Mantenerse,2
+1404,34,Femenino,Aysen,Urbana,Muy Alta,Estatal,Modificarse,1
+1405,47,Masculino,OHiggins,Urbana,Ninguna,AFP,Mantenerse,2
+1406,21,Masculino,Tarapaca,Rural,Alta,AFP,Modificarse,2
+1407,42,Femenino,Aysen,Urbana,Alta,Estatal,Mantenerse,1
+1408,65,Femenino,Los Lagos,Urbana,Media,AFP,Mantenerse,2
+1409,21,Femenino,Bío Bio,Urbana,Alta,Mixto,Modificarse,1
+1410,28,Masculino,Bío Bio,Urbana,Alta,Mixto,Modificarse,1
+1411,49,Masculino,Los Lagos,Urbana,Media,Mixto,Modificarse,2
+1412,32,Femenino,Maule,Rural,Alta,Mixto,Eliminarse,2
+1413,52,Masculino,Metropolitana,Urbana,Media,AFP,Mantenerse,2
+1414,36,No Binario,Magallanes,Urbana,Media,Mixto,Modificarse,1
+1415,43,Femenino,Atacama,Urbana,Muy Alta,Estatal,Modificarse,1
+1416,63,Femenino,Antofagasta,Urbana,Media,Mixto,Mantenerse,2
+1417,22,Masculino,Arica,Urbana,Alta,AFP,Mantenerse,2
+1418,65,Masculino,Bío Bio,Urbana,Baja,AFP,Mantenerse,2
+1419,19,Masculino,Arica,Urbana,Alta,Mixto,Eliminarse,1
+1420,63,Femenino,Los rios,Rural,Alta,AFP,Modificarse,2
+1421,42,Masculino,Arica,Urbana,Muy Alta,Mixto,Modificarse,1
+1422,63,Femenino,Arica,Urbana,Ninguna,Mixto,Mantenerse,2
+1423,24,No Binario,Coquimbo,Urbana,Media,Mixto,Modificarse,1
+1424,66,Femenino,Ñuble,Urbana,Media,Mixto,Mantenerse,2
+1425,38,No Binario,Aysen,Urbana,Alta,Mixto,Eliminarse,1
+1426,35,Masculino,Los Lagos,Urbana,Muy Alta,Mixto,Mantenerse,2
+1427,51,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse,1
+1428,23,Femenino,OHiggins,Rural,Muy Alta,AFP,Mantenerse,2
+1429,33,Femenino,Valparaiso,Rural,Muy Alta,Mixto,Mantenerse,2
+1430,54,Masculino,Araucania,Rural,Media,Estatal,Modificarse,1
+1431,51,Masculino,Aysen,Urbana,Media,Mixto,Mantenerse,2
+1432,45,Masculino,Tarapaca,Urbana,Ninguna,Mixto,Modificarse,2
+1433,18,Masculino,Maule,Urbana,Media,AFP,Modificarse,2
+1434,28,Masculino,Bío Bio,Urbana,Media,Estatal,Eliminarse,1
+1435,23,Masculino,Atacama,Urbana,Media,Mixto,Modificarse,2
+1436,20,Femenino,Araucania,Urbana,Muy Alta,Estatal,Eliminarse,1
+1437,35,Femenino,OHiggins,Urbana,Alta,Mixto,Eliminarse,1
+1438,31,Femenino,Maule,Rural,Muy Alta,Estatal,Eliminarse,1
+1439,50,Masculino,Araucania,Urbana,Media,AFP,Mantenerse,2
+1440,23,Femenino,Metropolitana,Urbana,Baja,Estatal,Eliminarse,1
+1441,36,Femenino,Aysen,Urbana,Alta,AFP,Mantenerse,2
+1442,29,Masculino,Magallanes,Urbana,Baja,AFP,Mantenerse,2
+1443,27,Masculino,Bío Bio,Urbana,Media,Mixto,Mantenerse,2
+1444,24,Femenino,OHiggins,Rural,Muy Alta,Estatal,Eliminarse,1
+1445,35,Femenino,Bío Bio,Rural,Alta,Estatal,Modificarse,1
+1446,45,Femenino,Aysen,Urbana,Alta,Estatal,Eliminarse,1
+1447,54,Femenino,Antofagasta,Urbana,Ninguna,AFP,Mantenerse,2
+1448,32,Masculino,Antofagasta,Urbana,Media,Mixto,Modificarse,2
+1449,60,Masculino,Ñuble,Rural,Baja,Estatal,Modificarse,1
+1450,44,Femenino,Ñuble,Rural,Media,Mixto,Mantenerse,2
+1451,19,Femenino,Ñuble,Urbana,Alta,Mixto,Mantenerse,2
+1452,19,Femenino,Araucania,Rural,Muy Alta,AFP,Mantenerse,2
+1453,54,Masculino,Los rios,Rural,Media,Estatal,Modificarse,1
+1454,42,Masculino,Aysen,Rural,Baja,Estatal,Eliminarse,1
+1455,45,Masculino,Los rios,Urbana,Ninguna,AFP,Mantenerse,2
+1456,50,Femenino,Antofagasta,Urbana,Media,AFP,Mantenerse,2
+1457,20,Femenino,Los rios,Rural,Alta,Estatal,Eliminarse,1
+1458,36,Masculino,Maule,Rural,Alta,Estatal,Eliminarse,1
+1459,36,Masculino,Los Lagos,Urbana,Muy Alta,Mixto,Eliminarse,1
+1460,32,Femenino,Bío Bio,Urbana,Muy Alta,Mixto,Modificarse,2
+1461,62,Femenino,Atacama,Urbana,Muy Alta,Estatal,Eliminarse,1
+1462,71,Masculino,Coquimbo,Urbana,Ninguna,Mixto,Mantenerse,2
+1463,29,Masculino,Aysen,Urbana,Media,Estatal,Modificarse,1
+1464,22,Femenino,Araucania,Rural,Alta,Mixto,Modificarse,2
+1465,41,Masculino,Valparaiso,Urbana,Media,Mixto,Mantenerse,2
+1466,44,No Binario,Arica,Urbana,Media,Mixto,Eliminarse,1
+1467,27,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse,1
+1468,73,Femenino,Valparaiso,Urbana,Alta,Mixto,Modificarse,2
+1469,75,Masculino,Araucania,Urbana,Media,Mixto,Mantenerse,2
+1470,21,No Binario,Maule,Urbana,Alta,Estatal,Eliminarse,1
+1471,26,Femenino,Antofagasta,Urbana,Alta,Estatal,Eliminarse,1
+1472,26,Masculino,Antofagasta,Urbana,Alta,AFP,Modificarse,2
+1473,66,Masculino,Los Lagos,Urbana,Ninguna,Mixto,Mantenerse,2
+1474,22,Masculino,Antofagasta,Urbana,Alta,Estatal,Eliminarse,1
+1475,42,Masculino,Metropolitana,Urbana,Ninguna,AFP,Mantenerse,2
+1476,35,Masculino,Coquimbo,Rural,Muy Alta,Mixto,Modificarse,2
+1477,50,Masculino,OHiggins,Urbana,Ninguna,AFP,Modificarse,2
+1478,30,Masculino,Bío Bio,Urbana,Alta,Mixto,Eliminarse,1
+1479,21,No Binario,Los rios,Urbana,Alta,Mixto,Eliminarse,1
+1480,22,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse,1
+1481,80,Masculino,Arica,Rural,Media,Mixto,Mantenerse,2
+1482,49,Masculino,OHiggins,Rural,Muy Alta,Estatal,Eliminarse,1
+1483,50,No Binario,Arica,Urbana,Muy Alta,Estatal,Modificarse,1
+1484,22,Masculino,Arica,Urbana,Baja,AFP,Mantenerse,2
+1485,33,Masculino,Magallanes,Urbana,Muy Alta,Mixto,Eliminarse,1
+1486,45,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse,1
+1487,37,Femenino,Arica,Urbana,Baja,Estatal,Mantenerse,1
+1488,33,Masculino,Antofagasta,Urbana,Media,Mixto,Mantenerse,2
+1489,36,Femenino,Atacama,Urbana,Baja,AFP,Mantenerse,2
+1490,54,Masculino,Los rios,Urbana,Baja,Mixto,Mantenerse,2
+1491,25,No Binario,Ñuble,Urbana,Media,Estatal,Eliminarse,1
+1492,40,Femenino,Atacama,Urbana,Muy Alta,Estatal,Modificarse,1
+1493,19,Femenino,Valparaiso,Urbana,Alta,Estatal,Eliminarse,1
+1494,21,Masculino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse,1
+1495,21,Femenino,Aysen,Urbana,Muy Alta,Estatal,Eliminarse,1
+1496,31,No Binario,Valparaiso,Urbana,Alta,Mixto,Eliminarse,1
+1497,36,Masculino,Antofagasta,Urbana,Baja,AFP,Mantenerse,2
+1498,22,Masculino,Bío Bio,Urbana,Muy Alta,Estatal,Modificarse,1
+1499,24,No Binario,Los Lagos,Urbana,Alta,Mixto,Modificarse,1
+1500,32,No Binario,Coquimbo,Urbana,Muy Alta,Mixto,Modificarse,1
+1501,42,Masculino,Arica,Urbana,Alta,Estatal,Eliminarse,1
+1502,42,Masculino,Metropolitana,Urbana,Ninguna,Mixto,Mantenerse,2
+1503,28,Femenino,Valparaiso,Urbana,Media,Estatal,Eliminarse,1
+1504,25,No Binario,Ñuble,Urbana,Muy Alta,Estatal,Modificarse,1
+1505,38,Masculino,Araucania,Rural,Media,AFP,Mantenerse,2
+1506,23,Femenino,Maule,Urbana,Alta,Mixto,Eliminarse,1
+1507,52,Masculino,Magallanes,Urbana,Ninguna,AFP,Mantenerse,2
+1508,48,Femenino,Aysen,Urbana,Muy Alta,Estatal,Eliminarse,1
+1509,33,Femenino,Los rios,Urbana,Alta,Estatal,Modificarse,1
+1510,20,Masculino,Metropolitana,Urbana,Alta,Estatal,Modificarse,1
+1511,34,Femenino,Aysen,Urbana,Muy Alta,Estatal,Eliminarse,1
+1512,46,Masculino,Magallanes,Urbana,Media,AFP,Modificarse,2
+1513,43,Femenino,Aysen,Urbana,Alta,Mixto,Mantenerse,2
+1514,35,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse,2
+1515,26,Femenino,Los rios,Urbana,Muy Alta,Mixto,Modificarse,1
+1516,31,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse,1
+1517,23,Femenino,Coquimbo,Urbana,Muy Alta,Estatal,Modificarse,1
+1518,31,Femenino,Arica,Urbana,Baja,Mixto,Eliminarse,1
+1519,32,No Binario,Magallanes,Urbana,Media,Estatal,Eliminarse,1
+1520,50,Femenino,Valparaiso,Urbana,Alta,Estatal,Eliminarse,1
+1521,28,Masculino,Maule,Urbana,Muy Alta,Mixto,Modificarse,2
+1522,48,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse,1
+1523,47,Masculino,Tarapaca,Urbana,Ninguna,Mixto,Mantenerse,2
+1524,18,Masculino,Coquimbo,Urbana,Muy Alta,Mixto,Eliminarse,1
+1525,24,Masculino,Los Lagos,Rural,Alta,AFP,Modificarse,2
+1526,19,Femenino,Tarapaca,Urbana,Muy Alta,AFP,Mantenerse,2
+1527,37,Femenino,Magallanes,Urbana,Alta,Estatal,Eliminarse,1
+1528,35,Femenino,Tarapaca,Rural,Media,Estatal,Modificarse,1
+1529,40,Femenino,Bío Bio,Urbana,Alta,Estatal,Modificarse,1
+1530,28,Masculino,Ñuble,Urbana,Alta,Mixto,Eliminarse,1
+1531,31,Femenino,Araucania,Urbana,Media,Mixto,Eliminarse,2
+1532,65,Masculino,Coquimbo,Urbana,Media,AFP,Mantenerse,2
+1533,22,Femenino,Atacama,Urbana,Alta,Mixto,Modificarse,2
+1534,34,Femenino,Magallanes,Urbana,Muy Alta,Estatal,Eliminarse,1
+1535,19,Femenino,Valparaiso,Urbana,Alta,Mixto,Eliminarse,1
+1536,53,Masculino,Los rios,Rural,Baja,Estatal,Mantenerse,2
+1537,47,Femenino,Aysen,Urbana,Baja,AFP,Mantenerse,2
+1538,32,Masculino,Coquimbo,Urbana,Alta,Mixto,Modificarse,2
+1539,26,Femenino,Valparaiso,Urbana,Alta,AFP,Modificarse,2
+1540,41,Femenino,Ñuble,Rural,Muy Alta,Estatal,Eliminarse,1
+1541,34,Masculino,Bío Bio,Urbana,Media,Mixto,Mantenerse,2
+1542,19,No Binario,Bío Bio,Urbana,Alta,Estatal,Eliminarse,1
+1543,21,No Binario,Magallanes,Urbana,Alta,Mixto,Modificarse,1
+1544,18,Masculino,Los rios,Rural,Media,AFP,Modificarse,2
+1545,48,Masculino,Aysen,Urbana,Alta,Estatal,Eliminarse,1
+1546,45,Masculino,Los Lagos,Urbana,Alta,Mixto,Mantenerse,2
+1547,57,Femenino,Valparaiso,Urbana,Baja,Estatal,Modificarse,1
+1548,51,Masculino,Aysen,Urbana,Muy Alta,Estatal,Mantenerse,1
+1549,25,Femenino,OHiggins,Rural,Muy Alta,Estatal,Eliminarse,1
+1550,21,Masculino,Valparaiso,Urbana,Baja,AFP,Modificarse,2
+1551,50,Masculino,Araucania,Rural,Ninguna,AFP,Mantenerse,2
+1552,56,Femenino,Antofagasta,Urbana,Baja,Mixto,Mantenerse,2
+1553,75,Masculino,Antofagasta,Urbana,Media,Mixto,Mantenerse,2
+1554,47,Masculino,Ñuble,Rural,Media,AFP,Mantenerse,2
+1555,57,Femenino,Araucania,Rural,Media,Mixto,Mantenerse,2
+1556,47,Masculino,Valparaiso,Urbana,Ninguna,AFP,Mantenerse,2
+1557,52,Femenino,Coquimbo,Urbana,Baja,Estatal,Mantenerse,2
+1558,32,No Binario,Aysen,Urbana,Muy Alta,Mixto,Eliminarse,1
+1559,24,Masculino,Magallanes,Urbana,Alta,Mixto,Modificarse,1
+1560,60,Femenino,Los rios,Urbana,Alta,Mixto,Modificarse,2
+1561,25,Femenino,Magallanes,Urbana,Baja,Estatal,Modificarse,1
+1562,22,Masculino,Atacama,Urbana,Baja,Estatal,Eliminarse,1
+1563,27,Femenino,Los Lagos,Urbana,Muy Alta,AFP,Mantenerse,2
+1564,25,No Binario,Maule,Urbana,Muy Alta,Estatal,Modificarse,1
+1565,54,No Binario,Antofagasta,Urbana,Alta,Estatal,Eliminarse,1
+1566,35,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse,1
+1567,48,Masculino,Bío Bio,Urbana,Muy Alta,Estatal,Eliminarse,1
+1568,39,Femenino,Araucania,Urbana,Media,AFP,Mantenerse,2
+1569,25,Femenino,Ñuble,Urbana,Alta,Estatal,Eliminarse,1
+1570,53,Femenino,Coquimbo,Urbana,Baja,Mixto,Mantenerse,2
+1571,39,Femenino,Valparaiso,Urbana,Baja,Mixto,Modificarse,1
+1572,26,No Binario,Atacama,Urbana,Alta,Estatal,Modificarse,1
+1573,61,Masculino,Antofagasta,Urbana,Ninguna,Estatal,Mantenerse,2
+1574,42,Masculino,Aysen,Rural,Baja,AFP,Mantenerse,2
+1575,26,No Binario,Ñuble,Urbana,Media,Mixto,Eliminarse,1
+1576,39,Masculino,Los Lagos,Urbana,Baja,Mixto,Mantenerse,2
+1577,23,Masculino,Tarapaca,Urbana,Muy Alta,AFP,Mantenerse,2
+1578,44,Masculino,Los rios,Rural,Media,Estatal,Modificarse,1
+1579,23,No Binario,OHiggins,Urbana,Muy Alta,Mixto,Modificarse,1
+1580,21,Femenino,Atacama,Urbana,Muy Alta,AFP,Eliminarse,2
+1581,52,Masculino,Tarapaca,Urbana,Baja,Mixto,Mantenerse,2
+1582,27,No Binario,Ñuble,Urbana,Alta,Estatal,Modificarse,1
+1583,54,Femenino,Aysen,Urbana,Muy Alta,Mixto,Modificarse,1
+1584,23,Masculino,Araucania,Urbana,Alta,AFP,Mantenerse,2
+1585,42,Femenino,Aysen,Urbana,Alta,Mixto,Eliminarse,1
+1586,19,Femenino,Coquimbo,Urbana,Alta,Mixto,Eliminarse,2
+1587,33,Femenino,Antofagasta,Urbana,Muy Alta,AFP,Mantenerse,2
+1588,39,Masculino,Coquimbo,Urbana,Media,Mixto,Mantenerse,1
+1589,40,Masculino,Arica,Urbana,Alta,Estatal,Eliminarse,1
+1590,24,Masculino,Los rios,Rural,Muy Alta,Estatal,Modificarse,1
+1591,41,Masculino,Araucania,Rural,Baja,AFP,Modificarse,2
+1592,52,Masculino,Araucania,Urbana,Baja,Mixto,Mantenerse,2
+1593,45,Femenino,Aysen,Urbana,Alta,AFP,Mantenerse,2
+1594,49,Masculino,Araucania,Rural,Muy Alta,Mixto,Modificarse,1
+1595,27,Femenino,Metropolitana,Urbana,Alta,Mixto,Modificarse,1
+1596,62,Femenino,Los Lagos,Rural,Media,Mixto,Modificarse,2
+1597,60,Femenino,Los rios,Urbana,Alta,Mixto,Mantenerse,2
+1598,25,Femenino,Aysen,Urbana,Muy Alta,Estatal,Modificarse,1
+1599,76,Masculino,Antofagasta,Urbana,Media,Mixto,Mantenerse,2
