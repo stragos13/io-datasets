@@ -1,0 +1,601 @@
+index,edad,genero,region,zona,cambio_climatico,pensiones,deportes_tipicos
+0,25,Masculino,Tarapaca,Urbana,Alta,AFP,Modificarse
+1,51,Masculino,Tarapaca,Urbana,Baja,Mixto,Mantenerse
+2,32,Femenino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse
+3,33,No Binario,Metropolitana,Urbana,Alta,Mixto,Eliminarse
+4,23,Masculino,Metropolitana,Urbana,Media,Mixto,Eliminarse
+5,29,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+6,48,Masculino,Metropolitana,Urbana,Alta,AFP,Mantenerse
+7,59,Masculino,Metropolitana,Urbana,Baja,AFP,Mantenerse
+8,62,Femenino,Metropolitana,Urbana,Baja,Mixto,Mantenerse
+9,63,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse
+10,34,Femenino,Tarapaca,Rural,Muy Alta,AFP,Mantenerse
+11,20,Femenino,Tarapaca,Rural,Baja,AFP,Mantenerse
+12,49,Femenino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+13,39,Femenino,Tarapaca,Urbana,Media,AFP,Mantenerse
+14,25,Femenino,Tarapaca,Urbana,Muy Alta,AFP,Mantenerse
+15,25,Masculino,Tarapaca,Urbana,Media,Mixto,Modificarse
+16,61,Femenino,Los Lagos,Urbana,Media,Estatal,Mantenerse
+17,22,No Binario,Tarapaca,Urbana,Alta,Mixto,Modificarse
+18,25,Masculino,Los Lagos,Urbana,Alta,Mixto,Mantenerse
+19,53,Femenino,Los Lagos,Urbana,Ninguna,Mixto,Mantenerse
+20,53,Masculino,Metropolitana,Urbana,Ninguna,Mixto,Mantenerse
+21,33,No Binario,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse
+22,33,Masculino,Los Lagos,Urbana,Alta,Estatal,Modificarse
+23,61,Femenino,Metropolitana,Urbana,Media,AFP,Modificarse
+24,18,Femenino,Los Lagos,Urbana,Alta,Mixto,Eliminarse
+25,26,Femenino,Los Lagos,Urbana,Alta,Mixto,Eliminarse
+26,22,Femenino,Tarapaca,Urbana,Alta,Mixto,Eliminarse
+27,54,Masculino,Los Lagos,Urbana,Baja,Mixto,Mantenerse
+28,49,No Binario,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+29,32,Femenino,Metropolitana,Rural,Media,Estatal,Eliminarse
+30,22,Femenino,Tarapaca,Urbana,Media,AFP,Mantenerse
+31,28,No Binario,Metropolitana,Urbana,Media,Estatal,Eliminarse
+32,47,Masculino,Los Lagos,Rural,Baja,AFP,Modificarse
+33,42,Masculino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse
+34,30,Femenino,Los Lagos,Rural,Muy Alta,Mixto,Eliminarse
+35,28,Femenino,Tarapaca,Urbana,Muy Alta,AFP,Modificarse
+36,30,Masculino,Metropolitana,Urbana,Media,AFP,Modificarse
+37,75,Masculino,Los Lagos,Rural,Baja,Mixto,Mantenerse
+38,74,Masculino,Los Lagos,Rural,Media,Mixto,Mantenerse
+39,28,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+40,29,Femenino,Los Lagos,Rural,Alta,Estatal,Eliminarse
+41,18,Masculino,Metropolitana,Urbana,Media,Mixto,Mantenerse
+42,25,Masculino,Metropolitana,Urbana,Muy Alta,Mixto,Modificarse
+43,35,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse
+44,57,Femenino,Metropolitana,Urbana,Baja,Estatal,Mantenerse
+45,43,Femenino,Los Lagos,Urbana,Muy Alta,Estatal,Eliminarse
+46,28,No Binario,Los Lagos,Urbana,Media,Mixto,Eliminarse
+47,23,Masculino,Tarapaca,Urbana,Media,AFP,Mantenerse
+48,29,Femenino,Tarapaca,Rural,Alta,Mixto,Mantenerse
+49,30,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse
+50,19,Femenino,Tarapaca,Urbana,Muy Alta,AFP,Mantenerse
+51,18,No Binario,Tarapaca,Urbana,Alta,Mixto,Eliminarse
+52,20,Femenino,Tarapaca,Urbana,Alta,Mixto,Eliminarse
+53,22,Masculino,Metropolitana,Urbana,Muy Alta,Mixto,Modificarse
+54,53,Masculino,Tarapaca,Urbana,Ninguna,Mixto,Mantenerse
+55,24,Masculino,Los Lagos,Urbana,Muy Alta,Estatal,Modificarse
+56,60,Femenino,Metropolitana,Urbana,Baja,Estatal,Modificarse
+57,27,Femenino,Los Lagos,Rural,Media,Mixto,Modificarse
+58,28,No Binario,Metropolitana,Urbana,Alta,Estatal,Modificarse
+59,33,Femenino,Tarapaca,Urbana,Alta,AFP,Modificarse
+60,33,Masculino,Los Lagos,Urbana,Alta,AFP,Mantenerse
+61,48,Femenino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+62,33,Femenino,Metropolitana,Urbana,Media,Estatal,Eliminarse
+63,35,Masculino,Metropolitana,Urbana,Media,Estatal,Eliminarse
+64,31,Femenino,Metropolitana,Urbana,Alta,Estatal,Modificarse
+65,54,Femenino,Los Lagos,Rural,Baja,Estatal,Mantenerse
+66,45,Masculino,Los Lagos,Urbana,Baja,AFP,Mantenerse
+67,34,No Binario,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+68,71,Masculino,Metropolitana,Urbana,Ninguna,AFP,Mantenerse
+69,31,Femenino,Metropolitana,Urbana,Baja,Mixto,Modificarse
+70,22,Masculino,Tarapaca,Urbana,Media,AFP,Mantenerse
+71,22,No Binario,Tarapaca,Urbana,Alta,Mixto,Eliminarse
+72,22,Femenino,Tarapaca,Urbana,Alta,AFP,Mantenerse
+73,40,Masculino,Tarapaca,Urbana,Baja,AFP,Modificarse
+74,25,No Binario,Metropolitana,Urbana,Alta,Estatal,Modificarse
+75,55,Femenino,Los Lagos,Urbana,Muy Alta,Estatal,Modificarse
+76,25,Femenino,Metropolitana,Urbana,Media,Mixto,Eliminarse
+77,39,No Binario,Los Lagos,Urbana,Alta,Estatal,Modificarse
+78,28,No Binario,Los Lagos,Urbana,Media,Mixto,Modificarse
+79,42,Masculino,Metropolitana,Urbana,Baja,Estatal,Mantenerse
+80,34,Masculino,Tarapaca,Urbana,Alta,AFP,Mantenerse
+81,57,Femenino,Los Lagos,Urbana,Alta,AFP,Modificarse
+82,27,Masculino,Los Lagos,Urbana,Muy Alta,Mixto,Eliminarse
+83,35,Masculino,Los Lagos,Rural,Baja,Mixto,Modificarse
+84,18,No Binario,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse
+85,18,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+86,28,No Binario,Los Lagos,Urbana,Alta,Mixto,Eliminarse
+87,45,Femenino,Metropolitana,Urbana,Alta,Estatal,Mantenerse
+88,31,Masculino,Metropolitana,Urbana,Alta,AFP,Mantenerse
+89,65,Masculino,Los Lagos,Urbana,Ninguna,Mixto,Mantenerse
+90,32,Masculino,Tarapaca,Urbana,Muy Alta,AFP,Mantenerse
+91,39,Femenino,Metropolitana,Urbana,Media,Mixto,Mantenerse
+92,35,Masculino,Tarapaca,Urbana,Muy Alta,Estatal,Modificarse
+93,31,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+94,54,Femenino,Metropolitana,Urbana,Media,Estatal,Mantenerse
+95,43,Femenino,Tarapaca,Urbana,Alta,Estatal,Mantenerse
+96,35,Masculino,Metropolitana,Urbana,Media,Mixto,Modificarse
+97,33,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+98,51,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Mantenerse
+99,60,Masculino,Los Lagos,Urbana,Baja,AFP,Mantenerse
+100,62,Femenino,Metropolitana,Urbana,Media,AFP,Mantenerse
+101,35,Femenino,Los Lagos,Urbana,Muy Alta,AFP,Mantenerse
+102,18,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse
+103,23,Masculino,Metropolitana,Urbana,Alta,Mixto,Eliminarse
+104,29,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse
+105,32,Femenino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse
+106,29,Femenino,Tarapaca,Urbana,Muy Alta,AFP,Mantenerse
+107,41,No Binario,Tarapaca,Urbana,Muy Alta,Estatal,Modificarse
+108,26,Masculino,Tarapaca,Urbana,Alta,AFP,Mantenerse
+109,53,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse
+110,23,Masculino,Metropolitana,Urbana,Baja,Estatal,Modificarse
+111,37,Masculino,Los Lagos,Urbana,Media,AFP,Mantenerse
+112,30,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Modificarse
+113,34,Femenino,Metropolitana,Urbana,Media,Estatal,Eliminarse
+114,36,Femenino,Los Lagos,Urbana,Media,Mixto,Modificarse
+115,37,No Binario,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse
+116,46,No Binario,Los Lagos,Urbana,Media,Estatal,Eliminarse
+117,60,Femenino,Metropolitana,Urbana,Alta,Estatal,Mantenerse
+118,34,Femenino,Tarapaca,Urbana,Muy Alta,AFP,Modificarse
+119,21,Masculino,Los Lagos,Urbana,Alta,Estatal,Modificarse
+120,20,No Binario,Metropolitana,Urbana,Media,Mixto,Eliminarse
+121,32,Masculino,Metropolitana,Urbana,Baja,Mixto,Modificarse
+122,56,Femenino,Tarapaca,Urbana,Ninguna,Estatal,Modificarse
+123,80,Femenino,Tarapaca,Urbana,Media,Estatal,Mantenerse
+124,19,Masculino,Los Lagos,Rural,Media,Mixto,Modificarse
+125,37,Masculino,Los Lagos,Rural,Muy Alta,Mixto,Eliminarse
+126,60,Masculino,Los Lagos,Urbana,Baja,AFP,Mantenerse
+127,27,No Binario,Los Lagos,Urbana,Muy Alta,Estatal,Modificarse
+128,36,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+129,29,Femenino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+130,34,Femenino,Metropolitana,Urbana,Alta,Estatal,Modificarse
+131,33,Femenino,Tarapaca,Urbana,Alta,AFP,Modificarse
+132,37,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+133,22,Masculino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse
+134,49,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse
+135,19,Masculino,Los Lagos,Rural,Baja,AFP,Modificarse
+136,43,Masculino,Los Lagos,Rural,Ninguna,AFP,Mantenerse
+137,32,Masculino,Tarapaca,Urbana,Muy Alta,Mixto,Mantenerse
+138,52,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Mantenerse
+139,24,Femenino,Tarapaca,Urbana,Alta,Estatal,Eliminarse
+140,34,Femenino,Metropolitana,Urbana,Baja,Estatal,Eliminarse
+141,36,Femenino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+142,47,Masculino,Los Lagos,Urbana,Media,AFP,Modificarse
+143,39,Femenino,Los Lagos,Urbana,Media,Estatal,Modificarse
+144,34,Masculino,Metropolitana,Urbana,Baja,Estatal,Eliminarse
+145,58,Masculino,Los Lagos,Urbana,Baja,Estatal,Modificarse
+146,53,Femenino,Los Lagos,Rural,Muy Alta,Estatal,Eliminarse
+147,35,Masculino,Tarapaca,Urbana,Alta,Estatal,Modificarse
+148,36,Masculino,Metropolitana,Urbana,Alta,Estatal,Modificarse
+149,25,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+150,53,Femenino,Los Lagos,Urbana,Media,Mixto,Mantenerse
+151,22,No Binario,Los Lagos,Urbana,Muy Alta,Mixto,Modificarse
+152,27,Femenino,Los Lagos,Rural,Muy Alta,Mixto,Eliminarse
+153,28,Masculino,Los Lagos,Urbana,Alta,Estatal,Eliminarse
+154,65,Femenino,Tarapaca,Urbana,Ninguna,Mixto,Modificarse
+155,38,Masculino,Metropolitana,Urbana,Baja,AFP,Modificarse
+156,31,No Binario,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+157,71,Masculino,Metropolitana,Urbana,Media,Mixto,Mantenerse
+158,24,No Binario,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse
+159,38,Masculino,Metropolitana,Urbana,Baja,AFP,Mantenerse
+160,32,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Mantenerse
+161,35,Masculino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+162,24,Masculino,Tarapaca,Urbana,Alta,AFP,Mantenerse
+163,74,Masculino,Los Lagos,Rural,Ninguna,Mixto,Mantenerse
+164,42,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse
+165,36,Masculino,Los Lagos,Urbana,Alta,Mixto,Eliminarse
+166,20,Masculino,Tarapaca,Urbana,Muy Alta,Estatal,Modificarse
+167,53,Masculino,Tarapaca,Urbana,Ninguna,Mixto,Mantenerse
+168,44,No Binario,Metropolitana,Urbana,Media,Estatal,Modificarse
+169,46,Femenino,Metropolitana,Urbana,Alta,Estatal,Mantenerse
+170,59,Femenino,Los Lagos,Rural,Baja,Mixto,Mantenerse
+171,31,Masculino,Los Lagos,Urbana,Alta,AFP,Mantenerse
+172,23,Femenino,Los Lagos,Rural,Media,Estatal,Modificarse
+173,59,Masculino,Metropolitana,Urbana,Ninguna,Mixto,Mantenerse
+174,51,Masculino,Tarapaca,Urbana,Alta,Estatal,Mantenerse
+175,25,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Modificarse
+176,38,No Binario,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+177,23,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse
+178,60,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Modificarse
+179,40,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+180,29,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+181,20,Masculino,Los Lagos,Urbana,Muy Alta,Estatal,Modificarse
+182,31,No Binario,Los Lagos,Urbana,Muy Alta,Mixto,Modificarse
+183,38,Masculino,Los Lagos,Rural,Media,AFP,Mantenerse
+184,35,Femenino,Los Lagos,Urbana,Alta,Mixto,Modificarse
+185,41,Femenino,Metropolitana,Urbana,Media,Estatal,Eliminarse
+186,22,Femenino,Tarapaca,Urbana,Baja,Mixto,Eliminarse
+187,46,No Binario,Metropolitana,Urbana,Alta,Estatal,Modificarse
+188,54,Masculino,Tarapaca,Urbana,Media,Estatal,Mantenerse
+189,31,Masculino,Los Lagos,Urbana,Alta,Mixto,Modificarse
+190,25,Masculino,Tarapaca,Urbana,Media,AFP,Mantenerse
+191,21,Femenino,Metropolitana,Urbana,Media,Estatal,Eliminarse
+192,51,Femenino,Tarapaca,Urbana,Media,Mixto,Modificarse
+193,27,Femenino,Los Lagos,Urbana,Alta,Mixto,Eliminarse
+194,65,Femenino,Los Lagos,Urbana,Alta,Mixto,Modificarse
+195,75,Masculino,Tarapaca,Urbana,Baja,Estatal,Modificarse
+196,24,Femenino,Los Lagos,Urbana,Baja,Estatal,Eliminarse
+197,23,Femenino,Metropolitana,Urbana,Alta,Mixto,Eliminarse
+198,50,Femenino,Tarapaca,Urbana,Media,AFP,Modificarse
+199,33,Masculino,Los Lagos,Urbana,Alta,Mixto,Modificarse
+200,39,No Binario,Tarapaca,Urbana,Alta,Estatal,Modificarse
+201,52,Masculino,Metropolitana,Urbana,Ninguna,Mixto,Mantenerse
+202,33,Femenino,Tarapaca,Urbana,Alta,AFP,Modificarse
+203,42,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse
+204,39,No Binario,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+205,35,Femenino,Los Lagos,Urbana,Muy Alta,AFP,Mantenerse
+206,44,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse
+207,48,No Binario,Los Lagos,Urbana,Media,Estatal,Eliminarse
+208,35,Masculino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse
+209,25,Femenino,Metropolitana,Urbana,Media,Mixto,Mantenerse
+210,25,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+211,35,Femenino,Los Lagos,Urbana,Baja,AFP,Mantenerse
+212,58,Masculino,Metropolitana,Urbana,Media,Estatal,Mantenerse
+213,60,Femenino,Los Lagos,Rural,Media,Estatal,Mantenerse
+214,36,Masculino,Metropolitana,Urbana,Alta,Mixto,Eliminarse
+215,23,No Binario,Tarapaca,Urbana,Alta,Estatal,Eliminarse
+216,22,Femenino,Tarapaca,Urbana,Muy Alta,Estatal,Modificarse
+217,27,Femenino,Los Lagos,Urbana,Baja,Mixto,Eliminarse
+218,29,Masculino,Metropolitana,Urbana,Alta,AFP,Mantenerse
+219,42,Femenino,Los Lagos,Urbana,Media,Estatal,Eliminarse
+220,20,Femenino,Tarapaca,Rural,Muy Alta,Mixto,Modificarse
+221,64,Masculino,Metropolitana,Urbana,Ninguna,Mixto,Mantenerse
+222,39,Masculino,Los Lagos,Rural,Ninguna,Mixto,Mantenerse
+223,21,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Modificarse
+224,53,Masculino,Los Lagos,Rural,Alta,Estatal,Modificarse
+225,48,Masculino,Tarapaca,Urbana,Ninguna,AFP,Modificarse
+226,29,Masculino,Los Lagos,Urbana,Alta,Mixto,Mantenerse
+227,27,Femenino,Los Lagos,Rural,Alta,Estatal,Eliminarse
+228,76,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse
+229,25,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+230,51,Masculino,Metropolitana,Urbana,Media,Estatal,Mantenerse
+231,37,Femenino,Tarapaca,Urbana,Ninguna,Mixto,Mantenerse
+232,23,No Binario,Tarapaca,Urbana,Alta,Mixto,Modificarse
+233,49,Masculino,Los Lagos,Rural,Media,AFP,Mantenerse
+234,69,Masculino,Los Lagos,Rural,Media,Estatal,Mantenerse
+235,31,Masculino,Metropolitana,Urbana,Media,AFP,Mantenerse
+236,35,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse
+237,63,Femenino,Los Lagos,Rural,Ninguna,Estatal,Mantenerse
+238,47,Femenino,Los Lagos,Urbana,Media,AFP,Mantenerse
+239,34,Masculino,Los Lagos,Rural,Media,Mixto,Modificarse
+240,32,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse
+241,65,Femenino,Metropolitana,Urbana,Ninguna,Mixto,Mantenerse
+242,21,Masculino,Metropolitana,Urbana,Media,Mixto,Mantenerse
+243,29,Masculino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+244,21,Femenino,Los Lagos,Rural,Alta,Mixto,Modificarse
+245,39,No Binario,Los Lagos,Urbana,Alta,Estatal,Modificarse
+246,78,Femenino,Los Lagos,Urbana,Alta,Mixto,Modificarse
+247,22,Masculino,Metropolitana,Urbana,Alta,Mixto,Eliminarse
+248,35,Masculino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse
+249,43,Masculino,Los Lagos,Urbana,Media,Mixto,Modificarse
+250,35,Masculino,Los Lagos,Urbana,Media,AFP,Mantenerse
+251,34,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse
+252,68,Femenino,Tarapaca,Urbana,Media,Estatal,Mantenerse
+253,20,Masculino,Los Lagos,Rural,Media,Mixto,Modificarse
+254,58,Femenino,Los Lagos,Rural,Ninguna,Mixto,Mantenerse
+255,53,Masculino,Tarapaca,Urbana,Alta,Estatal,Modificarse
+256,66,Masculino,Metropolitana,Urbana,Baja,AFP,Mantenerse
+257,36,No Binario,Tarapaca,Urbana,Alta,Estatal,Modificarse
+258,24,Femenino,Los Lagos,Rural,Alta,Mixto,Modificarse
+259,24,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Mantenerse
+260,45,Femenino,Los Lagos,Urbana,Alta,Mixto,Modificarse
+261,19,Femenino,Los Lagos,Rural,Alta,Estatal,Eliminarse
+262,45,Femenino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+263,42,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+264,31,Femenino,Los Lagos,Urbana,Alta,AFP,Mantenerse
+265,19,Femenino,Los Lagos,Urbana,Alta,Estatal,Modificarse
+266,18,Femenino,Tarapaca,Urbana,Alta,Mixto,Mantenerse
+267,54,Masculino,Los Lagos,Rural,Baja,Mixto,Mantenerse
+268,51,Masculino,Los Lagos,Urbana,Ninguna,Mixto,Mantenerse
+269,26,Masculino,Tarapaca,Urbana,Alta,Mixto,Mantenerse
+270,26,No Binario,Metropolitana,Urbana,Alta,Mixto,Eliminarse
+271,57,Femenino,Metropolitana,Urbana,Ninguna,Mixto,Mantenerse
+272,44,Masculino,Los Lagos,Rural,Media,AFP,Mantenerse
+273,36,No Binario,Tarapaca,Urbana,Alta,Mixto,Modificarse
+274,25,Femenino,Los Lagos,Urbana,Baja,AFP,Modificarse
+275,25,No Binario,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse
+276,67,Femenino,Tarapaca,Urbana,Media,Estatal,Mantenerse
+277,28,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+278,20,Masculino,Los Lagos,Rural,Alta,Mixto,Modificarse
+279,27,No Binario,Los Lagos,Urbana,Muy Alta,Estatal,Eliminarse
+280,30,Femenino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse
+281,45,Femenino,Los Lagos,Urbana,Baja,Mixto,Modificarse
+282,25,Femenino,Tarapaca,Urbana,Baja,Estatal,Eliminarse
+283,42,Masculino,Los Lagos,Urbana,Alta,AFP,Mantenerse
+284,58,Femenino,Metropolitana,Urbana,Media,Mixto,Modificarse
+285,35,Femenino,Los Lagos,Urbana,Muy Alta,Estatal,Eliminarse
+286,36,Masculino,Tarapaca,Urbana,Alta,AFP,Mantenerse
+287,45,Masculino,Metropolitana,Urbana,Alta,Mixto,Modificarse
+288,21,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Modificarse
+289,30,Femenino,Los Lagos,Rural,Media,Mixto,Mantenerse
+290,44,Femenino,Tarapaca,Urbana,Baja,AFP,Mantenerse
+291,60,Masculino,Metropolitana,Urbana,Media,Mixto,Mantenerse
+292,31,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Modificarse
+293,24,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse
+294,44,Femenino,Los Lagos,Rural,Alta,AFP,Modificarse
+295,30,Femenino,Los Lagos,Urbana,Alta,Estatal,Eliminarse
+296,20,Femenino,Tarapaca,Rural,Muy Alta,AFP,Modificarse
+297,23,No Binario,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse
+298,30,Femenino,Tarapaca,Urbana,Alta,Mixto,Eliminarse
+299,41,Masculino,Tarapaca,Urbana,Media,Mixto,Eliminarse
+300,35,Femenino,Tarapaca,Urbana,Alta,AFP,Mantenerse
+301,20,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+302,60,Masculino,Metropolitana,Urbana,Baja,Mixto,Mantenerse
+303,79,Femenino,Metropolitana,Urbana,Baja,Mixto,Mantenerse
+304,39,Femenino,Los Lagos,Urbana,Alta,Mixto,Mantenerse
+305,55,Femenino,Metropolitana,Urbana,Alta,Mixto,Mantenerse
+306,55,Femenino,Los Lagos,Urbana,Baja,Mixto,Mantenerse
+307,67,Masculino,Metropolitana,Urbana,Ninguna,Mixto,Mantenerse
+308,27,Femenino,Los Lagos,Urbana,Media,Mixto,Mantenerse
+309,42,Femenino,Tarapaca,Urbana,Alta,AFP,Mantenerse
+310,35,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+311,42,Femenino,Metropolitana,Urbana,Alta,Mixto,Modificarse
+312,25,Masculino,Tarapaca,Urbana,Media,Estatal,Eliminarse
+313,30,No Binario,Tarapaca,Urbana,Muy Alta,Estatal,Modificarse
+314,32,No Binario,Tarapaca,Urbana,Alta,Mixto,Eliminarse
+315,45,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+316,36,Masculino,Los Lagos,Urbana,Media,AFP,Mantenerse
+317,52,Femenino,Tarapaca,Urbana,Media,Estatal,Modificarse
+318,64,Femenino,Metropolitana,Urbana,Ninguna,Mixto,Mantenerse
+319,43,Femenino,Metropolitana,Urbana,Media,Mixto,Mantenerse
+320,21,Femenino,Metropolitana,Urbana,Alta,Mixto,Eliminarse
+321,31,Femenino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+322,26,Masculino,Los Lagos,Rural,Alta,Mixto,Eliminarse
+323,53,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+324,24,No Binario,Metropolitana,Urbana,Media,Mixto,Eliminarse
+325,32,Masculino,Los Lagos,Urbana,Alta,Mixto,Modificarse
+326,56,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+327,23,Masculino,Metropolitana,Urbana,Media,Mixto,Mantenerse
+328,46,Masculino,Metropolitana,Urbana,Alta,Mixto,Eliminarse
+329,71,Femenino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+330,58,Masculino,Metropolitana,Urbana,Media,Mixto,Modificarse
+331,61,Femenino,Metropolitana,Urbana,Alta,Estatal,Mantenerse
+332,49,Masculino,Los Lagos,Urbana,Media,AFP,Modificarse
+333,41,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse
+334,25,Femenino,Los Lagos,Urbana,Muy Alta,Estatal,Modificarse
+335,22,No Binario,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse
+336,43,Masculino,Los Lagos,Urbana,Media,Mixto,Mantenerse
+337,40,Masculino,Los Lagos,Urbana,Media,Estatal,Mantenerse
+338,36,Femenino,Los Lagos,Rural,Media,Mixto,Mantenerse
+339,54,Femenino,Los Lagos,Urbana,Ninguna,Estatal,Mantenerse
+340,44,Femenino,Metropolitana,Urbana,Media,Mixto,Mantenerse
+341,53,Masculino,Tarapaca,Rural,Media,Mixto,Mantenerse
+342,22,Femenino,Metropolitana,Urbana,Alta,AFP,Modificarse
+343,63,Masculino,Los Lagos,Urbana,Media,Estatal,Mantenerse
+344,55,Femenino,Tarapaca,Urbana,Media,AFP,Mantenerse
+345,35,No Binario,Tarapaca,Urbana,Alta,Estatal,Modificarse
+346,55,Femenino,Tarapaca,Urbana,Baja,Estatal,Mantenerse
+347,31,Masculino,Tarapaca,Urbana,Media,AFP,Mantenerse
+348,27,Femenino,Metropolitana,Urbana,Alta,Estatal,Modificarse
+349,70,Femenino,Los Lagos,Urbana,Alta,Estatal,Modificarse
+350,25,Masculino,Metropolitana,Urbana,Muy Alta,Mixto,Modificarse
+351,31,Femenino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+352,56,Femenino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+353,36,Femenino,Tarapaca,Urbana,Alta,AFP,Mantenerse
+354,35,No Binario,Tarapaca,Urbana,Alta,Estatal,Eliminarse
+355,20,Masculino,Los Lagos,Urbana,Media,AFP,Modificarse
+356,42,Masculino,Los Lagos,Urbana,Alta,Mixto,Eliminarse
+357,19,No Binario,Los Lagos,Urbana,Media,Mixto,Eliminarse
+358,75,Femenino,Tarapaca,Urbana,Alta,Mixto,Mantenerse
+359,24,No Binario,Los Lagos,Urbana,Muy Alta,Estatal,Modificarse
+360,61,Masculino,Metropolitana,Urbana,Baja,AFP,Mantenerse
+361,35,Masculino,Los Lagos,Urbana,Media,AFP,Mantenerse
+362,38,Femenino,Los Lagos,Urbana,Alta,Mixto,Mantenerse
+363,50,Masculino,Metropolitana,Urbana,Ninguna,AFP,Modificarse
+364,26,Masculino,Los Lagos,Urbana,Alta,AFP,Modificarse
+365,68,Masculino,Los Lagos,Urbana,Media,Estatal,Mantenerse
+366,18,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Modificarse
+367,56,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Mantenerse
+368,37,Masculino,Metropolitana,Urbana,Muy Alta,Mixto,Mantenerse
+369,27,Masculino,Los Lagos,Rural,Media,Mixto,Mantenerse
+370,55,Femenino,Tarapaca,Urbana,Alta,Estatal,Mantenerse
+371,41,Femenino,Los Lagos,Urbana,Muy Alta,Estatal,Eliminarse
+372,33,Femenino,Metropolitana,Rural,Media,Estatal,Modificarse
+373,18,Femenino,Tarapaca,Urbana,Alta,Estatal,Modificarse
+374,38,No Binario,Metropolitana,Urbana,Alta,Mixto,Modificarse
+375,64,Femenino,Metropolitana,Urbana,Media,AFP,Modificarse
+376,29,Masculino,Los Lagos,Rural,Muy Alta,AFP,Mantenerse
+377,55,Femenino,Los Lagos,Rural,Ninguna,AFP,Mantenerse
+378,53,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+379,28,Masculino,Tarapaca,Urbana,Media,AFP,Mantenerse
+380,53,Femenino,Tarapaca,Urbana,Media,Estatal,Mantenerse
+381,40,No Binario,Metropolitana,Urbana,Alta,Estatal,Modificarse
+382,55,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse
+383,19,Femenino,Tarapaca,Urbana,Alta,Mixto,Eliminarse
+384,21,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Modificarse
+385,42,Femenino,Tarapaca,Urbana,Media,AFP,Mantenerse
+386,29,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+387,26,Masculino,Los Lagos,Urbana,Alta,Mixto,Mantenerse
+388,38,Femenino,Metropolitana,Urbana,Media,Mixto,Mantenerse
+389,46,Femenino,Tarapaca,Urbana,Baja,Mixto,Mantenerse
+390,23,Masculino,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse
+391,34,Masculino,Los Lagos,Rural,Media,Mixto,Modificarse
+392,42,Femenino,Tarapaca,Urbana,Media,Mixto,Modificarse
+393,53,Masculino,Los Lagos,Rural,Ninguna,Mixto,Mantenerse
+394,19,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse
+395,36,Masculino,Tarapaca,Urbana,Alta,Estatal,Eliminarse
+396,42,Femenino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+397,35,Masculino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse
+398,28,Masculino,Los Lagos,Urbana,Muy Alta,Mixto,Mantenerse
+399,34,Femenino,Metropolitana,Urbana,Media,Mixto,Eliminarse
+400,52,Masculino,Tarapaca,Urbana,Baja,AFP,Mantenerse
+401,39,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+402,29,Masculino,Metropolitana,Urbana,Baja,Mixto,Eliminarse
+403,34,Femenino,Tarapaca,Urbana,Muy Alta,Estatal,Modificarse
+404,52,Femenino,Los Lagos,Rural,Ninguna,AFP,Mantenerse
+405,53,Femenino,Metropolitana,Urbana,Media,AFP,Mantenerse
+406,25,Masculino,Los Lagos,Rural,Muy Alta,Mixto,Modificarse
+407,19,Femenino,Metropolitana,Urbana,Baja,Mixto,Eliminarse
+408,21,Masculino,Metropolitana,Urbana,Baja,Estatal,Eliminarse
+409,62,Femenino,Metropolitana,Urbana,Media,Estatal,Modificarse
+410,26,Masculino,Los Lagos,Urbana,Media,AFP,Mantenerse
+411,78,Femenino,Los Lagos,Rural,Media,Mixto,Mantenerse
+412,70,Femenino,Tarapaca,Urbana,Ninguna,Mixto,Mantenerse
+413,22,Masculino,Los Lagos,Rural,Baja,AFP,Modificarse
+414,65,Femenino,Tarapaca,Urbana,Media,Mixto,Modificarse
+415,19,Masculino,Los Lagos,Rural,Media,Mixto,Mantenerse
+416,35,No Binario,Tarapaca,Urbana,Media,Estatal,Eliminarse
+417,38,Masculino,Metropolitana,Urbana,Media,AFP,Mantenerse
+418,48,Femenino,Tarapaca,Urbana,Media,Mixto,Modificarse
+419,49,Femenino,Tarapaca,Urbana,Alta,Mixto,Mantenerse
+420,23,Masculino,Tarapaca,Urbana,Media,AFP,Mantenerse
+421,27,Masculino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse
+422,61,Femenino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+423,50,Femenino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+424,27,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+425,20,Femenino,Metropolitana,Urbana,Media,Estatal,Eliminarse
+426,41,Masculino,Los Lagos,Urbana,Baja,AFP,Mantenerse
+427,22,Femenino,Metropolitana,Rural,Muy Alta,Mixto,Eliminarse
+428,63,Femenino,Tarapaca,Urbana,Alta,Estatal,Modificarse
+429,65,Femenino,Tarapaca,Urbana,Alta,AFP,Mantenerse
+430,42,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Mantenerse
+431,56,Femenino,Los Lagos,Urbana,Baja,Estatal,Mantenerse
+432,21,Femenino,Tarapaca,Urbana,Alta,AFP,Modificarse
+433,31,No Binario,Los Lagos,Urbana,Muy Alta,Estatal,Eliminarse
+434,28,No Binario,Tarapaca,Urbana,Muy Alta,Mixto,Modificarse
+435,34,Masculino,Tarapaca,Urbana,Muy Alta,AFP,Mantenerse
+436,38,Femenino,Tarapaca,Urbana,Muy Alta,Estatal,Eliminarse
+437,59,Femenino,Los Lagos,Urbana,Baja,Mixto,Mantenerse
+438,23,No Binario,Tarapaca,Urbana,Alta,Estatal,Modificarse
+439,50,Femenino,Metropolitana,Urbana,Alta,Estatal,Modificarse
+440,50,Femenino,Los Lagos,Urbana,Media,AFP,Modificarse
+441,25,Femenino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+442,31,Femenino,Los Lagos,Rural,Alta,Estatal,Eliminarse
+443,44,Femenino,Tarapaca,Urbana,Ninguna,AFP,Modificarse
+444,58,Masculino,Metropolitana,Urbana,Baja,Estatal,Modificarse
+445,42,Masculino,Tarapaca,Urbana,Media,AFP,Modificarse
+446,33,Masculino,Los Lagos,Rural,Baja,Mixto,Eliminarse
+447,60,Femenino,Los Lagos,Rural,Media,Mixto,Mantenerse
+448,22,No Binario,Los Lagos,Urbana,Muy Alta,Mixto,Modificarse
+449,41,Femenino,Metropolitana,Rural,Alta,AFP,Mantenerse
+450,48,Femenino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+451,22,Femenino,Tarapaca,Urbana,Muy Alta,AFP,Modificarse
+452,32,Femenino,Los Lagos,Urbana,Alta,Mixto,Eliminarse
+453,33,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Modificarse
+454,18,Femenino,Los Lagos,Rural,Muy Alta,Estatal,Eliminarse
+455,26,Femenino,Los Lagos,Urbana,Media,Mixto,Modificarse
+456,21,Femenino,Tarapaca,Rural,Alta,AFP,Mantenerse
+457,31,Femenino,Los Lagos,Rural,Media,Mixto,Modificarse
+458,55,Femenino,Los Lagos,Urbana,Alta,Estatal,Modificarse
+459,29,Masculino,Los Lagos,Rural,Muy Alta,Estatal,Eliminarse
+460,23,Masculino,Metropolitana,Urbana,Muy Alta,Mixto,Modificarse
+461,53,Femenino,Tarapaca,Urbana,Alta,Estatal,Mantenerse
+462,22,Femenino,Los Lagos,Urbana,Muy Alta,AFP,Mantenerse
+463,31,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse
+464,43,Masculino,Los Lagos,Urbana,Muy Alta,Estatal,Eliminarse
+465,23,Femenino,Tarapaca,Urbana,Alta,Estatal,Modificarse
+466,30,Masculino,Los Lagos,Rural,Alta,AFP,Mantenerse
+467,23,Femenino,Tarapaca,Urbana,Alta,AFP,Modificarse
+468,18,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+469,45,Masculino,Los Lagos,Urbana,Baja,AFP,Modificarse
+470,40,Masculino,Los Lagos,Urbana,Baja,AFP,Modificarse
+471,24,Femenino,Metropolitana,Rural,Muy Alta,Mixto,Modificarse
+472,55,Femenino,Metropolitana,Urbana,Media,AFP,Modificarse
+473,26,Femenino,Metropolitana,Urbana,Alta,Mixto,Eliminarse
+474,42,Femenino,Los Lagos,Urbana,Media,AFP,Mantenerse
+475,28,Masculino,Tarapaca,Urbana,Media,Mixto,Eliminarse
+476,42,Masculino,Tarapaca,Rural,Ninguna,AFP,Modificarse
+477,23,No Binario,Los Lagos,Urbana,Alta,Estatal,Modificarse
+478,36,Masculino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+479,22,No Binario,Los Lagos,Urbana,Media,Estatal,Eliminarse
+480,68,Masculino,Tarapaca,Urbana,Baja,Estatal,Modificarse
+481,21,Femenino,Metropolitana,Urbana,Baja,Estatal,Eliminarse
+482,32,Femenino,Los Lagos,Urbana,Muy Alta,Mixto,Modificarse
+483,20,Masculino,Los Lagos,Rural,Media,Mixto,Mantenerse
+484,25,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Modificarse
+485,23,Masculino,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse
+486,33,Masculino,Metropolitana,Urbana,Media,AFP,Mantenerse
+487,65,Femenino,Metropolitana,Urbana,Media,Mixto,Mantenerse
+488,19,Masculino,Metropolitana,Urbana,Muy Alta,Mixto,Eliminarse
+489,47,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+490,36,Masculino,Los Lagos,Rural,Baja,AFP,Mantenerse
+491,65,Femenino,Metropolitana,Urbana,Media,Estatal,Modificarse
+492,22,Masculino,Los Lagos,Urbana,Muy Alta,Mixto,Mantenerse
+493,19,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+494,69,Femenino,Metropolitana,Urbana,Media,Mixto,Modificarse
+495,41,Femenino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+496,64,Femenino,Tarapaca,Urbana,Media,Estatal,Mantenerse
+497,21,Femenino,Los Lagos,Urbana,Muy Alta,Estatal,Eliminarse
+498,18,Femenino,Los Lagos,Rural,Media,Mixto,Eliminarse
+499,40,Masculino,Metropolitana,Urbana,Alta,Estatal,Modificarse
+500,19,Masculino,Tarapaca,Urbana,Baja,AFP,Modificarse
+501,38,Femenino,Los Lagos,Urbana,Alta,Estatal,Modificarse
+502,24,Femenino,Los Lagos,Urbana,Muy Alta,AFP,Eliminarse
+503,47,Masculino,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse
+504,32,Femenino,Tarapaca,Urbana,Baja,Mixto,Mantenerse
+505,19,Femenino,Los Lagos,Rural,Muy Alta,Estatal,Eliminarse
+506,33,Masculino,Metropolitana,Urbana,Alta,Mixto,Modificarse
+507,18,Masculino,Metropolitana,Urbana,Media,AFP,Mantenerse
+508,39,Femenino,Tarapaca,Urbana,Baja,Mixto,Mantenerse
+509,56,Masculino,Los Lagos,Rural,Ninguna,Mixto,Mantenerse
+510,53,Femenino,Los Lagos,Urbana,Ninguna,Estatal,Mantenerse
+511,35,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse
+512,62,Masculino,Los Lagos,Rural,Baja,AFP,Mantenerse
+513,25,Femenino,Metropolitana,Urbana,Media,Mixto,Eliminarse
+514,79,Femenino,Metropolitana,Urbana,Baja,AFP,Modificarse
+515,41,Masculino,Tarapaca,Urbana,Media,AFP,Mantenerse
+516,45,Masculino,Los Lagos,Rural,Media,Estatal,Mantenerse
+517,44,Masculino,Los Lagos,Rural,Alta,AFP,Modificarse
+518,74,Masculino,Los Lagos,Urbana,Media,Estatal,Modificarse
+519,35,Femenino,Metropolitana,Urbana,Alta,Mixto,Eliminarse
+520,46,No Binario,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+521,31,Masculino,Tarapaca,Urbana,Muy Alta,Mixto,Eliminarse
+522,23,Masculino,Los Lagos,Urbana,Alta,Estatal,Eliminarse
+523,59,Femenino,Metropolitana,Urbana,Baja,Estatal,Mantenerse
+524,40,Femenino,Metropolitana,Urbana,Baja,Mixto,Modificarse
+525,20,Femenino,Metropolitana,Urbana,Media,Estatal,Eliminarse
+526,41,Femenino,Metropolitana,Urbana,Alta,Mixto,Mantenerse
+527,39,Masculino,Tarapaca,Urbana,Ninguna,AFP,Modificarse
+528,34,Masculino,Los Lagos,Rural,Muy Alta,AFP,Mantenerse
+529,33,Femenino,Los Lagos,Urbana,Alta,AFP,Mantenerse
+530,35,No Binario,Metropolitana,Urbana,Media,Mixto,Eliminarse
+531,35,Masculino,Los Lagos,Urbana,Media,Mixto,Modificarse
+532,76,Femenino,Tarapaca,Urbana,Media,Mixto,Mantenerse
+533,34,Masculino,Los Lagos,Urbana,Muy Alta,Mixto,Eliminarse
+534,23,Femenino,Los Lagos,Urbana,Media,Mixto,Eliminarse
+535,57,Masculino,Tarapaca,Urbana,Baja,Mixto,Mantenerse
+536,40,Masculino,Tarapaca,Urbana,Alta,Estatal,Eliminarse
+537,60,Femenino,Metropolitana,Urbana,Media,Mixto,Modificarse
+538,37,Femenino,Los Lagos,Urbana,Muy Alta,Estatal,Eliminarse
+539,38,Masculino,Metropolitana,Urbana,Baja,Mixto,Modificarse
+540,22,Masculino,Metropolitana,Urbana,Media,Mixto,Eliminarse
+541,18,Masculino,Metropolitana,Urbana,Alta,AFP,Mantenerse
+542,20,No Binario,Metropolitana,Urbana,Alta,Mixto,Modificarse
+543,21,Femenino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+544,73,Femenino,Tarapaca,Urbana,Alta,Mixto,Mantenerse
+545,60,Femenino,Los Lagos,Rural,Media,Estatal,Modificarse
+546,35,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Mantenerse
+547,30,Masculino,Tarapaca,Urbana,Alta,AFP,Modificarse
+548,21,Masculino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+549,43,Femenino,Tarapaca,Urbana,Alta,Estatal,Modificarse
+550,35,Masculino,Los Lagos,Rural,Media,Mixto,Mantenerse
+551,41,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse
+552,36,Femenino,Los Lagos,Urbana,Muy Alta,Estatal,Eliminarse
+553,35,Femenino,Los Lagos,Rural,Alta,Estatal,Modificarse
+554,18,Femenino,Tarapaca,Urbana,Alta,Mixto,Mantenerse
+555,28,Masculino,Tarapaca,Rural,Media,Estatal,Eliminarse
+556,78,Masculino,Tarapaca,Urbana,Ninguna,AFP,Mantenerse
+557,55,Masculino,Los Lagos,Urbana,Baja,AFP,Mantenerse
+558,23,Masculino,Metropolitana,Urbana,Alta,Estatal,Modificarse
+559,24,Femenino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+560,21,Femenino,Los Lagos,Urbana,Muy Alta,Mixto,Eliminarse
+561,29,Femenino,Los Lagos,Urbana,Muy Alta,Estatal,Eliminarse
+562,49,Femenino,Los Lagos,Rural,Ninguna,AFP,Mantenerse
+563,34,Femenino,Tarapaca,Urbana,Media,AFP,Modificarse
+564,30,Masculino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+565,53,Masculino,Los Lagos,Urbana,Baja,Mixto,Mantenerse
+566,75,Masculino,Los Lagos,Rural,Muy Alta,Estatal,Modificarse
+567,35,Masculino,Los Lagos,Urbana,Baja,Mixto,Eliminarse
+568,35,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+569,58,Masculino,Metropolitana,Urbana,Alta,Estatal,Modificarse
+570,23,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+571,26,Masculino,Tarapaca,Urbana,Alta,Mixto,Modificarse
+572,34,No Binario,Los Lagos,Urbana,Alta,Estatal,Modificarse
+573,35,Masculino,Tarapaca,Urbana,Alta,AFP,Modificarse
+574,44,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Mantenerse
+575,32,Femenino,Metropolitana,Urbana,Muy Alta,Mixto,Mantenerse
+576,71,Masculino,Metropolitana,Urbana,Alta,Mixto,Modificarse
+577,29,Masculino,Metropolitana,Urbana,Alta,Mixto,Mantenerse
+578,44,Masculino,Metropolitana,Urbana,Alta,Estatal,Eliminarse
+579,48,No Binario,Tarapaca,Urbana,Alta,Estatal,Modificarse
+580,20,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Modificarse
+581,61,Masculino,Metropolitana,Urbana,Ninguna,AFP,Mantenerse
+582,24,No Binario,Tarapaca,Urbana,Alta,Mixto,Modificarse
+583,33,Femenino,Tarapaca,Urbana,Muy Alta,Mixto,Mantenerse
+584,21,Femenino,Los Lagos,Rural,Muy Alta,Mixto,Eliminarse
+585,62,Masculino,Los Lagos,Urbana,Baja,AFP,Mantenerse
+586,52,Masculino,Los Lagos,Rural,Ninguna,AFP,Mantenerse
+587,60,Masculino,Metropolitana,Urbana,Ninguna,Estatal,Mantenerse
+588,24,Femenino,Tarapaca,Urbana,Baja,Mixto,Mantenerse
+589,78,Femenino,Tarapaca,Urbana,Alta,Mixto,Mantenerse
+590,49,Femenino,Los Lagos,Urbana,Media,Mixto,Mantenerse
+591,52,Masculino,Los Lagos,Urbana,Baja,Mixto,Mantenerse
+592,36,Masculino,Tarapaca,Urbana,Ninguna,AFP,Modificarse
+593,20,Femenino,Metropolitana,Urbana,Media,Estatal,Eliminarse
+594,75,Femenino,Tarapaca,Urbana,Alta,AFP,Mantenerse
+595,21,Femenino,Los Lagos,Urbana,Alta,Mixto,Modificarse
+596,18,No Binario,Metropolitana,Urbana,Alta,Mixto,Modificarse
+597,55,Masculino,Los Lagos,Urbana,Baja,Mixto,Mantenerse
+598,33,Femenino,Metropolitana,Urbana,Muy Alta,Estatal,Eliminarse
+599,56,Masculino,Metropolitana,Urbana,Ninguna,AFP,Mantenerse
